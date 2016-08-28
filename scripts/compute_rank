@@ -1,0 +1,313 @@
+#!/usr/bin/env python3
+
+'''
+Analyze results csv of PACE 2016 challenge, and compute ranks
+Copyright 2016, Holger Dell
+Licensed under GPLv3.
+'''
+
+import os
+import sys
+import csv
+
+def read_results(filename):
+    """Read results from a csv file.
+
+    Args:
+        filename: The path of the csv file.
+            Assumes the given file contains a header line, such as:
+            mode;se_or_pa;number;solver;ver;instance;timeout;width;validation_result;exit_status;time_real; time_user;time_sys;time_perc;time_mem
+
+    Returns:
+        A list of dictionaries, one per row of the csv file.
+    """
+    results=list()
+    with open(filename, 'r') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=';', skipinitialspace=True)
+        for row in reader:
+            results.append(row)
+    return results
+
+
+def filter(results, valid=0, mode=None, se_or_pa=None, solver=None, number=None, instance=None):
+    """Filter result rows based on entries
+
+    Args:
+        results: A list of dictionaries; each dictionary requires the keys
+            'mode', 'validation_result', 'width', and 'instance'
+        mode: If set to 'ex' or 'he', only consider tests done in mode;
+            otherwise consider all tests
+        se_or_pa: If set to 'se' or 'he', only consider tests done by a
+            sequential or parallel solver
+
+    Returns:
+        A sublist of results
+    """
+    good=list()
+    for row in results:
+        if (valid == None or int(row['validation_result']) == valid) and \
+                (number == None or row['number'] == number) and \
+                (solver == None or row['solver'] == solver) and \
+                (mode == None or row['mode'] == mode) and \
+                (se_or_pa == None or row['se_or_pa'] == se_or_pa):
+            good.append(row)
+    return good
+
+def tw_from_results(results):
+    """Compute the best valid width found for each instance
+
+    Args:
+        results: A list of dictionaries; each dictionary requires the keys
+            'mode', 'validation_result', 'width', and 'instance'
+
+    Returns:
+        A dictionary that maps each instance name to the best width found in the
+        result csv file
+    """
+    tw=dict()
+    for row in results:
+        width=row['width']
+        instance=row['instance']
+        if (not instance in tw) \
+        or tw[instance] == '' \
+        or int(width) < int(tw[instance]):
+            tw[instance] = width
+    return tw
+
+
+def print_tw_as_csv(tw, file=sys.stdout):
+    """Print csv file of known_treewidths"""
+    writer = csv.writer(file, delimiter=';', lineterminator='\n')
+    writer.writerow(['name','treewidth+1'])
+    for instance in sorted(tw):
+        writer.writerow([instance,tw[instance]])
+
+
+def print_solver_warnings(tw, results, file=sys.stderr):
+    """Print warnings about bugs in exact solvers"""
+    for row in results:
+
+        width=row['width']
+        instance=row['instance']
+
+        if row['mode'] == 'ex' \
+        and int(row['validation_result']) == 0 \
+        and instance in tw \
+        and int(width) > int(tw[instance]):
+            print("Warning: {:s}-{:s}-{:s}-{:s} produced width {:s} "
+                  "but treewidth+1 is {:s} for {:s}".format(
+                    row['mode'], row['se_or_pa'], row['number'],
+                    row['solver'], row['width'], tw[instance], instance),
+                  file=file)
+
+
+def print_time_real(results, mode='ex'):
+    """Print the real running time for each valid output of tw-exact"""
+    for row in results:
+        if row['mode'] == mode and int(row['validation_result']) == 0:
+            print(row['time_real'] + ' ' + row['instance'])
+
+
+def arrange_by(results, pivot):
+    """Turn results list into a dict of lists"""
+    arranged=dict()
+    for row in results:
+        if row[pivot] not in arranged:
+            arranged[row[pivot]]=list()
+        arranged[row[pivot]].append(row)
+    return arranged
+
+def solver_from_row(row):
+    return "{:s}-{:s}".format(row['number'],row['solver'])
+
+
+def get_widest_path(d):
+    """Compute the widest path for each pair of candidates"""
+    p=dict()
+    for i in d:
+        p[i]=dict()
+
+    for i in d:
+        for j in d:
+            if i != j:
+                if d[i][j] > d[j][i]:
+                    p[i][j] = d[i][j]
+                else:
+                    p[i][j] = 0
+
+    for i in d:
+       for j in d:
+           if i != j:
+               for k in d:
+                   if i != k and j != k:
+                       p[j][k] = max ( p[j][k], min ( p[j][i], p[i][k] ) )
+
+    return p
+
+
+def total_sum(p,c):
+    sum=0
+    for d in p:
+        if d != c:
+            sum+=p[c][d]-p[d][c]
+    return sum
+
+def get_ranking(p):
+    """Compute Schulze ranking from paths"""
+    ranking=list()
+    candidates=list(p.keys())
+    while len(candidates)>=1:
+        potential_winners=list()
+        for c in candidates:
+            is_potential_winner=True
+            for d in candidates:
+                if c != d and p[d][c] > p[c][d]:
+                    is_potential_winner=False
+            if is_potential_winner:
+                potential_winners.append(c)
+
+        assert(len(potential_winners)>0)
+
+        if len(potential_winners)>1:
+            print('## Warning! Breaking ties between',potential_winners)
+
+        for i in sorted(potential_winners,key=lambda c: -total_sum(p,c)):
+            print(i)
+            ranking.append(i)
+            candidates.remove(i)
+    return ranking
+
+
+def print_stats(iresults,rank_by):
+    # Collect names of all solvers here:
+    solvers=list()
+
+    for instance in iresults:
+        for row in iresults[instance]:
+            solver=solver_from_row(row)
+            if solver not in solvers:
+                solvers.append(solver)
+
+    solvers.sort()
+
+    print('== Participating Solvers: {:d} =='.format(len(solvers)))
+    for s in solvers:
+        print(s)
+
+
+    # Collect number of solved instances per solver here:
+    num_solved=dict()
+
+    # Collect ranks for each instance here:
+    ranks=dict()
+
+
+    print('\n\n== Statistics per instance ==')
+    for instance in sorted(iresults):
+        print("{:s} was solved by {:d} solvers".format(instance,len(iresults[instance])))
+        last_value=None
+        cur_rank=0
+        for row in sorted(iresults[instance],key=lambda row: float(row[rank_by])):
+            solver="{:s}-{:s}".format(row['number'],row['solver'])
+            print("{:s}={:s} {:s}".format(rank_by,row[rank_by],solver))
+            if solver not in num_solved:
+                num_solved[solver]=1
+            else:
+                num_solved[solver]+=1
+
+            if last_value==None or last_value < float(row[rank_by]):
+                last_value=float(row[rank_by])
+                cur_rank+=1
+
+            if instance not in ranks:
+                ranks[instance]=dict()
+            ranks[instance][solver]=cur_rank
+
+        cur_rank+=1
+        for solver in solvers:
+            if solver not in ranks[instance]:
+                ranks[instance][solver]=cur_rank
+
+        print(ranks[instance])
+        print('')
+
+    print('== Statistics per solver ==')
+    print("Total number of solved instances: {:d}".format(len(iresults)))
+    for solver in sorted(solvers,key=lambda a: -num_solved[a]):
+        print("{:d} solved by {:s}".format(num_solved[solver],solver))
+
+    # How often is solver1 strictly better than solver2 ?
+    pair=dict()
+    for solver1 in solvers:
+        pair[solver1]=dict()
+        for solver2 in solvers:
+            if solver2 != solver1:
+                pair[solver1][solver2]=0
+
+
+    for solver1 in solvers:
+        for solver2 in solvers:
+            for i in ranks:
+                if ranks[i][solver1] < ranks[i][solver2]:
+                    pair[solver1][solver2]+=1
+
+    ratio=dict()
+    for solver1 in solvers:
+        ratio[solver1]=dict()
+        for solver2 in solvers:
+            if solver1 != solver2:
+                ratio[solver1][solver2]=float(pair[solver1][solver2]) / float(len(iresults))
+
+    print('\n== Pairwise comparisons ==')
+    print('(Only count an instance if solver1 and solver2 have a distinct rank)')
+
+    p=get_widest_path(pair)
+    for solver1 in solvers:
+        print('\n{:s}'.format(solver1))
+        for solver2 in solvers:
+            if solver1 != solver2:
+                total=ratio[solver1][solver2]+ratio[solver2][solver1]
+                s1better=ratio[solver1][solver2] / total * 100.0
+                print('better than {:s} on {:f}% of instances (path={:d})'.format( \
+                        solver2, s1better, p[solver1][solver2]
+                        ))
+
+
+    print('\n== Final ranking (using Schulze method) ==')
+    ranking=get_ranking(p)
+    #for s in ranking:
+    #    print(s)
+
+def main():
+    path=os.path.dirname(os.path.realpath(__file__))
+
+    if len(sys.argv)!=4 or sys.argv[2] not in ['ex','he'] or sys.argv[3] not in ['se','pa']:
+        print("Usage: {:s} <csv file> <ex/he> <se/pa>".format(sys.argv[0]))
+        print("\n<csv file> is a results csv file generated by logs-to-csv")
+        exit(1)
+
+    mode=sys.argv[2]
+    se_or_pa=sys.argv[3]
+
+    results=read_results(sys.argv[1])
+#    tw=tw_from_results(filter(results, mode='ex'))
+#    print_tw_as_csv(tw)
+#    print_solver_warnings(tw,results)
+
+    # Arrange results by instance
+    iresults=arrange_by(filter(results, mode=mode, se_or_pa=se_or_pa), pivot='instance')
+
+    if mode=='ex':
+        if se_or_pa=='se':
+            rank_by='time_user'
+        else:
+            rank_by='time_real'
+    else:
+        rank_by='width'
+
+    print_stats(iresults,rank_by)
+
+
+if __name__ == '__main__':
+    main()
+

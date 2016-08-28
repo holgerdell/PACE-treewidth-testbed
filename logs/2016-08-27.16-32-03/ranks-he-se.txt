@@ -1,0 +1,3375 @@
+== Participating Solvers: 9 ==
+1-tw-heuristic
+10-tw-heuristic
+12-flow_cutter_pace16
+5-htd_gr2td_mindegree_exhaustive.sh
+5-htd_gr2td_mindegree_iterative_100_20.sh
+5-htd_gr2td_minfill_exhaustive.sh
+5-htd_gr2td_minfill_iterative_100_20.sh
+6-tw-heuristic
+9-tw-heuristic
+
+
+== Statistics per instance ==
+4x12_torusGrid.gr was solved by 7 solvers
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=11 5-htd_gr2td_mindegree_exhaustive.sh
+width=11 12-flow_cutter_pace16
+width=12 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 4}
+
+6s10.gaifman.gr was solved by 8 solvers
+width=593 5-htd_gr2td_minfill_iterative_100_20.sh
+width=669 5-htd_gr2td_minfill_exhaustive.sh
+width=697 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=728 5-htd_gr2td_mindegree_exhaustive.sh
+width=856 12-flow_cutter_pace16
+width=877 9-tw-heuristic
+width=33903 1-tw-heuristic
+width=33903 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 7, '12-flow_cutter_pace16': 5, '9-tw-heuristic': 6, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '6-tw-heuristic': 8, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 7}
+
+6s11-opt.gaifman.gr was solved by 8 solvers
+width=619 5-htd_gr2td_minfill_iterative_100_20.sh
+width=729 5-htd_gr2td_mindegree_exhaustive.sh
+width=740 5-htd_gr2td_minfill_exhaustive.sh
+width=780 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=958 12-flow_cutter_pace16
+width=994 9-tw-heuristic
+width=33279 1-tw-heuristic
+width=33279 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 7, '12-flow_cutter_pace16': 5, '9-tw-heuristic': 6, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 8, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 7}
+
+6s12.gaifman.gr was solved by 8 solvers
+width=673 5-htd_gr2td_minfill_iterative_100_20.sh
+width=674 5-htd_gr2td_minfill_exhaustive.sh
+width=708 5-htd_gr2td_mindegree_exhaustive.sh
+width=715 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=724 12-flow_cutter_pace16
+width=772 9-tw-heuristic
+width=34036 1-tw-heuristic
+width=34036 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 7, '12-flow_cutter_pace16': 5, '9-tw-heuristic': 6, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 8, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 7}
+
+8x6_torusGrid.gr was solved by 7 solvers
+width=13 5-htd_gr2td_mindegree_exhaustive.sh
+width=13 5-htd_gr2td_minfill_exhaustive.sh
+width=13 5-htd_gr2td_minfill_iterative_100_20.sh
+width=13 9-tw-heuristic
+width=13 10-tw-heuristic
+width=14 12-flow_cutter_pace16
+width=15 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+AProVE07-01.gaifman.gr was solved by 8 solvers
+width=857 5-htd_gr2td_minfill_iterative_100_20.sh
+width=861 5-htd_gr2td_minfill_exhaustive.sh
+width=1019 5-htd_gr2td_mindegree_exhaustive.sh
+width=1031 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=1107 12-flow_cutter_pace16
+width=1113 9-tw-heuristic
+width=7502 1-tw-heuristic
+width=7502 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 7, '12-flow_cutter_pace16': 5, '9-tw-heuristic': 6, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 8, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 7}
+
+AProVE07-03.gaifman.gr was solved by 7 solvers
+width=211 9-tw-heuristic
+width=223 5-htd_gr2td_minfill_exhaustive.sh
+width=224 5-htd_gr2td_minfill_iterative_100_20.sh
+width=224 12-flow_cutter_pace16
+width=228 5-htd_gr2td_mindegree_exhaustive.sh
+width=237 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3114 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 6, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 7}
+
+AhrensSzekeresGeneralizedQuadrangleGraph_3.gr was solved by 8 solvers
+width=18 5-htd_gr2td_mindegree_exhaustive.sh
+width=18 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=18 9-tw-heuristic
+width=18 10-tw-heuristic
+width=18 12-flow_cutter_pace16
+width=21 1-tw-heuristic
+width=21 5-htd_gr2td_minfill_exhaustive.sh
+width=21 5-htd_gr2td_minfill_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 2}
+
+BalancedTree_3,5.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+BiggsSmithGraph.gr was solved by 7 solvers
+width=20 5-htd_gr2td_minfill_exhaustive.sh
+width=20 9-tw-heuristic
+width=21 5-htd_gr2td_mindegree_exhaustive.sh
+width=21 5-htd_gr2td_minfill_iterative_100_20.sh
+width=21 12-flow_cutter_pace16
+width=23 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=23 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 4}
+
+BlanusaSecondSnarkGraph.gr was solved by 9 solvers
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 6-tw-heuristic
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3, '6-tw-heuristic': 1}
+
+BrinkmannGraph.gr was solved by 9 solvers
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 9-tw-heuristic
+width=9 12-flow_cutter_pace16
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 6-tw-heuristic
+width=10 10-tw-heuristic
+width=13 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3, '6-tw-heuristic': 2}
+
+BrouwerHaemersGraph.gr was solved by 9 solvers
+width=55 5-htd_gr2td_mindegree_exhaustive.sh
+width=55 5-htd_gr2td_minfill_exhaustive.sh
+width=55 5-htd_gr2td_minfill_iterative_100_20.sh
+width=55 10-tw-heuristic
+width=59 12-flow_cutter_pace16
+width=60 9-tw-heuristic
+width=61 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=81 1-tw-heuristic
+width=81 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 5}
+
+BubbleSortGraph_5.gr was solved by 8 solvers
+width=26 9-tw-heuristic
+width=28 5-htd_gr2td_mindegree_exhaustive.sh
+width=28 12-flow_cutter_pace16
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 10-tw-heuristic
+width=120 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 4}
+
+CameronGraph.gr was solved by 9 solvers
+width=175 9-tw-heuristic
+width=176 12-flow_cutter_pace16
+width=178 5-htd_gr2td_minfill_exhaustive.sh
+width=178 5-htd_gr2td_minfill_iterative_100_20.sh
+width=178 10-tw-heuristic
+width=180 5-htd_gr2td_mindegree_exhaustive.sh
+width=183 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=231 1-tw-heuristic
+width=231 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 6}
+
+Cell120.gr was solved by 7 solvers
+width=91 12-flow_cutter_pace16
+width=99 5-htd_gr2td_minfill_exhaustive.sh
+width=100 9-tw-heuristic
+width=104 5-htd_gr2td_mindegree_exhaustive.sh
+width=104 5-htd_gr2td_minfill_iterative_100_20.sh
+width=113 10-tw-heuristic
+width=118 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 6, '10-tw-heuristic': 5, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '1-tw-heuristic': 7}
+
+ChvatalGraph.gr was solved by 9 solvers
+width=7 1-tw-heuristic
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+ClebschGraph.gr was solved by 9 solvers
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+width=11 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+CycleGraph_100.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=100 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+DejterGraph.gr was solved by 7 solvers
+width=37 9-tw-heuristic
+width=38 5-htd_gr2td_mindegree_exhaustive.sh
+width=38 12-flow_cutter_pace16
+width=42 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=43 5-htd_gr2td_minfill_exhaustive.sh
+width=43 5-htd_gr2td_minfill_iterative_100_20.sh
+width=43 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '1-tw-heuristic': 5}
+
+DesarguesGraph.gr was solved by 8 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=9 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+DodecahedralGraph.gr was solved by 8 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+DorogovtsevGoltsevMendesGraph.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+DoubleStarSnark.gr was solved by 8 solvers
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+width=13 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+DyckGraph.gr was solved by 8 solvers
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 9-tw-heuristic
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+width=17 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+ErreraGraph.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=8 1-tw-heuristic
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '1-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '6-tw-heuristic': 1}
+
+FibonacciTree_10.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+FlowerSnark.gr was solved by 8 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=9 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+FoldedCubeGraph_7.gr was solved by 7 solvers
+width=31 5-htd_gr2td_mindegree_exhaustive.sh
+width=31 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=31 9-tw-heuristic
+width=31 10-tw-heuristic
+width=32 5-htd_gr2td_minfill_exhaustive.sh
+width=32 5-htd_gr2td_minfill_iterative_100_20.sh
+width=32 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3}
+
+FolkmanGraph.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3, '6-tw-heuristic': 1}
+
+FosterGraph.gr was solved by 8 solvers
+width=18 5-htd_gr2td_mindegree_exhaustive.sh
+width=18 5-htd_gr2td_minfill_exhaustive.sh
+width=18 9-tw-heuristic
+width=20 5-htd_gr2td_minfill_iterative_100_20.sh
+width=21 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=21 12-flow_cutter_pace16
+width=22 10-tw-heuristic
+width=90 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 5}
+
+FriendshipGraph_10.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_10_0.gr was solved by 9 solvers
+width=5 1-tw-heuristic
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_10_1.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_20_0.gr was solved by 9 solvers
+width=7 1-tw-heuristic
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_20_1.gr was solved by 9 solvers
+width=8 1-tw-heuristic
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 6-tw-heuristic
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_30_0.gr was solved by 9 solvers
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+GNP_20_30_1.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_40_0.gr was solved by 9 solvers
+width=11 5-htd_gr2td_mindegree_exhaustive.sh
+width=11 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=11 5-htd_gr2td_minfill_exhaustive.sh
+width=11 5-htd_gr2td_minfill_iterative_100_20.sh
+width=11 6-tw-heuristic
+width=11 9-tw-heuristic
+width=11 10-tw-heuristic
+width=11 12-flow_cutter_pace16
+width=12 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+GNP_20_40_1.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GNP_20_50_0.gr was solved by 9 solvers
+width=11 5-htd_gr2td_mindegree_exhaustive.sh
+width=11 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=11 5-htd_gr2td_minfill_exhaustive.sh
+width=11 5-htd_gr2td_minfill_iterative_100_20.sh
+width=11 6-tw-heuristic
+width=11 9-tw-heuristic
+width=11 10-tw-heuristic
+width=11 12-flow_cutter_pace16
+width=12 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+GNP_20_50_1.gr was solved by 9 solvers
+width=13 5-htd_gr2td_minfill_exhaustive.sh
+width=13 5-htd_gr2td_minfill_iterative_100_20.sh
+width=13 6-tw-heuristic
+width=13 10-tw-heuristic
+width=13 12-flow_cutter_pace16
+width=14 1-tw-heuristic
+width=14 5-htd_gr2td_mindegree_exhaustive.sh
+width=14 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=14 9-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '9-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+GTFS_VBB_EndeApr_Dez2016.zip_tram.gr.bz2 was solved by 8 solvers
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3, '6-tw-heuristic': 1}
+
+GeneralizedPetersenGraph_10_4.gr was solved by 8 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+GoethalsSeidelGraph_2_3.gr was solved by 9 solvers
+width=12 5-htd_gr2td_mindegree_exhaustive.sh
+width=12 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=12 5-htd_gr2td_minfill_exhaustive.sh
+width=12 5-htd_gr2td_minfill_iterative_100_20.sh
+width=12 6-tw-heuristic
+width=12 9-tw-heuristic
+width=12 10-tw-heuristic
+width=12 12-flow_cutter_pace16
+width=13 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+GoldnerHararyGraph.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+GossetGraph.gr was solved by 9 solvers
+width=44 5-htd_gr2td_mindegree_exhaustive.sh
+width=44 9-tw-heuristic
+width=44 12-flow_cutter_pace16
+width=45 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=45 5-htd_gr2td_minfill_exhaustive.sh
+width=45 5-htd_gr2td_minfill_iterative_100_20.sh
+width=45 10-tw-heuristic
+width=53 1-tw-heuristic
+width=56 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3}
+
+GrayGraph.gr was solved by 8 solvers
+width=11 5-htd_gr2td_mindegree_exhaustive.sh
+width=11 5-htd_gr2td_minfill_exhaustive.sh
+width=11 5-htd_gr2td_minfill_iterative_100_20.sh
+width=11 9-tw-heuristic
+width=11 12-flow_cutter_pace16
+width=13 10-tw-heuristic
+width=14 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=40 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+GrotzschGraph.gr was solved by 9 solvers
+width=6 1-tw-heuristic
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+HallJankoGraph.gr was solved by 8 solvers
+width=80 12-flow_cutter_pace16
+width=83 5-htd_gr2td_mindegree_exhaustive.sh
+width=83 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=84 5-htd_gr2td_minfill_exhaustive.sh
+width=84 5-htd_gr2td_minfill_iterative_100_20.sh
+width=84 9-tw-heuristic
+width=85 10-tw-heuristic
+width=100 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 6, '6-tw-heuristic': 5}
+
+HanoiTowerGraph_4_3.gr was solved by 8 solvers
+width=16 5-htd_gr2td_mindegree_exhaustive.sh
+width=16 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=16 5-htd_gr2td_minfill_exhaustive.sh
+width=16 5-htd_gr2td_minfill_iterative_100_20.sh
+width=16 9-tw-heuristic
+width=16 10-tw-heuristic
+width=16 12-flow_cutter_pace16
+width=47 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+HararyGraph_6_15.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+HarborthGraph.gr was solved by 8 solvers
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+width=26 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+HarriesGraph.gr was solved by 8 solvers
+width=16 5-htd_gr2td_minfill_exhaustive.sh
+width=16 9-tw-heuristic
+width=16 12-flow_cutter_pace16
+width=17 5-htd_gr2td_mindegree_exhaustive.sh
+width=17 5-htd_gr2td_minfill_iterative_100_20.sh
+width=18 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=18 10-tw-heuristic
+width=70 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 4}
+
+HeawoodGraph.gr was solved by 9 solvers
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+HigmanSimsGraph.gr was solved by 9 solvers
+width=73 5-htd_gr2td_mindegree_exhaustive.sh
+width=73 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=76 10-tw-heuristic
+width=76 12-flow_cutter_pace16
+width=78 5-htd_gr2td_minfill_exhaustive.sh
+width=78 5-htd_gr2td_minfill_iterative_100_20.sh
+width=78 9-tw-heuristic
+width=100 1-tw-heuristic
+width=100 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 4}
+
+HoffmanGraph.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=9 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+HoffmanSingletonGraph.gr was solved by 7 solvers
+width=29 5-htd_gr2td_mindegree_exhaustive.sh
+width=29 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 9-tw-heuristic
+width=29 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+HyperStarGraph_10_2.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+IcosahedralGraph.gr was solved by 9 solvers
+width=7 1-tw-heuristic
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+JohnsonGraph_10_4.gr was solved by 8 solvers
+width=124 12-flow_cutter_pace16
+width=130 9-tw-heuristic
+width=136 5-htd_gr2td_minfill_exhaustive.sh
+width=136 5-htd_gr2td_minfill_iterative_100_20.sh
+width=136 10-tw-heuristic
+width=144 5-htd_gr2td_mindegree_exhaustive.sh
+width=151 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=210 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 7, '6-tw-heuristic': 6}
+
+KittellGraph.gr was solved by 9 solvers
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 6-tw-heuristic
+width=8 9-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 3, '6-tw-heuristic': 1}
+
+KneserGraph_10_2.gr was solved by 8 solvers
+width=36 5-htd_gr2td_mindegree_exhaustive.sh
+width=36 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=36 5-htd_gr2td_minfill_exhaustive.sh
+width=36 5-htd_gr2td_minfill_iterative_100_20.sh
+width=36 9-tw-heuristic
+width=36 10-tw-heuristic
+width=36 12-flow_cutter_pace16
+width=41 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+KneserGraph_8_3.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=33 12-flow_cutter_pace16
+width=35 5-htd_gr2td_minfill_exhaustive.sh
+width=35 5-htd_gr2td_minfill_iterative_100_20.sh
+width=51 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 4}
+
+LadderGraph_20.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+LjubljanaGraph.gr was solved by 7 solvers
+width=23 5-htd_gr2td_minfill_exhaustive.sh
+width=23 9-tw-heuristic
+width=23 12-flow_cutter_pace16
+width=24 5-htd_gr2td_mindegree_exhaustive.sh
+width=26 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=26 5-htd_gr2td_minfill_iterative_100_20.sh
+width=26 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 4}
+
+MarkstroemGraph.gr was solved by 9 solvers
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+width=6 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+McGeeGraph.gr was solved by 8 solvers
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+width=12 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+MeredithGraph.gr was solved by 7 solvers
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+NauruGraph.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 12-flow_cutter_pace16
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 6-tw-heuristic
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=11 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3, '6-tw-heuristic': 2}
+
+NonisotropicOrthogonalPolarGraph_3_5.gr was solved by 9 solvers
+width=11 1-tw-heuristic
+width=11 5-htd_gr2td_minfill_exhaustive.sh
+width=11 5-htd_gr2td_minfill_iterative_100_20.sh
+width=11 6-tw-heuristic
+width=11 9-tw-heuristic
+width=11 10-tw-heuristic
+width=11 12-flow_cutter_pace16
+width=12 5-htd_gr2td_mindegree_exhaustive.sh
+width=12 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+NonisotropicUnitaryPolarGraph_3_3.gr was solved by 7 solvers
+width=54 5-htd_gr2td_mindegree_exhaustive.sh
+width=54 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=54 10-tw-heuristic
+width=54 12-flow_cutter_pace16
+width=55 9-tw-heuristic
+width=56 5-htd_gr2td_minfill_exhaustive.sh
+width=56 5-htd_gr2td_minfill_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 4}
+
+OddGraph_4.gr was solved by 8 solvers
+width=13 5-htd_gr2td_mindegree_exhaustive.sh
+width=13 5-htd_gr2td_minfill_exhaustive.sh
+width=13 5-htd_gr2td_minfill_iterative_100_20.sh
+width=13 10-tw-heuristic
+width=14 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=15 9-tw-heuristic
+width=15 12-flow_cutter_pace16
+width=24 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+OrthogonalArrayBlockGraph_4_3.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+PaleyGraph_17.gr was solved by 9 solvers
+width=12 5-htd_gr2td_mindegree_exhaustive.sh
+width=12 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=12 5-htd_gr2td_minfill_exhaustive.sh
+width=12 5-htd_gr2td_minfill_iterative_100_20.sh
+width=12 6-tw-heuristic
+width=12 9-tw-heuristic
+width=12 10-tw-heuristic
+width=12 12-flow_cutter_pace16
+width=13 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+PappusGraph.gr was solved by 8 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+PoussinGraph.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+RKT_100_80_30_0.gr was solved by 8 solvers
+width=28 5-htd_gr2td_mindegree_exhaustive.sh
+width=28 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=28 5-htd_gr2td_minfill_exhaustive.sh
+width=28 5-htd_gr2td_minfill_iterative_100_20.sh
+width=28 9-tw-heuristic
+width=28 10-tw-heuristic
+width=28 12-flow_cutter_pace16
+width=100 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RKT_100_90_30_0.gr was solved by 8 solvers
+width=22 9-tw-heuristic
+width=22 12-flow_cutter_pace16
+width=23 5-htd_gr2td_mindegree_exhaustive.sh
+width=23 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=23 5-htd_gr2td_minfill_exhaustive.sh
+width=23 5-htd_gr2td_minfill_iterative_100_20.sh
+width=23 10-tw-heuristic
+width=100 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3}
+
+RKT_20_40_10_0.gr was solved by 9 solvers
+width=10 1-tw-heuristic
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 6-tw-heuristic
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=10 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_40_10_1.gr was solved by 9 solvers
+width=11 1-tw-heuristic
+width=11 5-htd_gr2td_mindegree_exhaustive.sh
+width=11 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=11 5-htd_gr2td_minfill_exhaustive.sh
+width=11 5-htd_gr2td_minfill_iterative_100_20.sh
+width=11 6-tw-heuristic
+width=11 9-tw-heuristic
+width=11 10-tw-heuristic
+width=11 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_50_10_0.gr was solved by 9 solvers
+width=10 1-tw-heuristic
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 6-tw-heuristic
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=10 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_50_10_1.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_60_10_0.gr was solved by 9 solvers
+width=8 1-tw-heuristic
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 6-tw-heuristic
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_60_10_1.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_70_10_0.gr was solved by 9 solvers
+width=7 1-tw-heuristic
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_70_10_1.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+width=8 9-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+RKT_20_80_10_0.gr was solved by 9 solvers
+width=5 1-tw-heuristic
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_20_80_10_1.gr was solved by 9 solvers
+width=6 1-tw-heuristic
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+RKT_300_75_30_0.gr was solved by 9 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=300 1-tw-heuristic
+width=300 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RKT_300_90_30_0.gr was solved by 7 solvers
+width=28 5-htd_gr2td_mindegree_exhaustive.sh
+width=28 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=28 5-htd_gr2td_minfill_exhaustive.sh
+width=28 5-htd_gr2td_minfill_iterative_100_20.sh
+width=28 9-tw-heuristic
+width=28 10-tw-heuristic
+width=28 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RKT_500_80_30_0.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=500 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RandomBarabasiAlbert_100_2.gr was solved by 8 solvers
+width=13 5-htd_gr2td_mindegree_exhaustive.sh
+width=13 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=13 5-htd_gr2td_minfill_exhaustive.sh
+width=13 5-htd_gr2td_minfill_iterative_100_20.sh
+width=13 9-tw-heuristic
+width=13 10-tw-heuristic
+width=13 12-flow_cutter_pace16
+width=28 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RandomBarabasiAlbert_100_5.gr was solved by 8 solvers
+width=37 5-htd_gr2td_mindegree_exhaustive.sh
+width=37 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=37 5-htd_gr2td_minfill_exhaustive.sh
+width=37 5-htd_gr2td_minfill_iterative_100_20.sh
+width=37 9-tw-heuristic
+width=37 10-tw-heuristic
+width=37 12-flow_cutter_pace16
+width=100 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RandomBipartite_10_50_3.gr was solved by 9 solvers
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 6-tw-heuristic
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=10 12-flow_cutter_pace16
+width=12 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+RandomBipartite_25_50_1.gr was solved by 8 solvers
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=10 12-flow_cutter_pace16
+width=23 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RandomBipartite_25_50_3.gr was solved by 8 solvers
+width=24 5-htd_gr2td_mindegree_exhaustive.sh
+width=24 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=24 5-htd_gr2td_minfill_exhaustive.sh
+width=24 5-htd_gr2td_minfill_iterative_100_20.sh
+width=24 9-tw-heuristic
+width=24 10-tw-heuristic
+width=24 12-flow_cutter_pace16
+width=75 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RandomBoundedToleranceGraph_60.gr was solved by 9 solvers
+width=31 5-htd_gr2td_mindegree_exhaustive.sh
+width=31 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=31 5-htd_gr2td_minfill_exhaustive.sh
+width=31 5-htd_gr2td_minfill_iterative_100_20.sh
+width=31 6-tw-heuristic
+width=31 9-tw-heuristic
+width=31 10-tw-heuristic
+width=31 12-flow_cutter_pace16
+width=32 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+RandomBoundedToleranceGraph_80.gr was solved by 7 solvers
+width=33 5-htd_gr2td_mindegree_exhaustive.sh
+width=33 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=33 5-htd_gr2td_minfill_exhaustive.sh
+width=33 5-htd_gr2td_minfill_iterative_100_20.sh
+width=33 9-tw-heuristic
+width=33 10-tw-heuristic
+width=33 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RandomGNM_100_100.gr was solved by 9 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+width=18 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+RandomGNM_250_1000.gr was solved by 9 solvers
+width=101 9-tw-heuristic
+width=102 5-htd_gr2td_mindegree_exhaustive.sh
+width=102 10-tw-heuristic
+width=104 12-flow_cutter_pace16
+width=105 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=105 5-htd_gr2td_minfill_exhaustive.sh
+width=105 5-htd_gr2td_minfill_iterative_100_20.sh
+width=250 1-tw-heuristic
+width=250 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '1-tw-heuristic': 5}
+
+RandomGNM_500_500.gr was solved by 7 solvers
+width=21 5-htd_gr2td_mindegree_exhaustive.sh
+width=21 5-htd_gr2td_minfill_exhaustive.sh
+width=21 9-tw-heuristic
+width=22 12-flow_cutter_pace16
+width=23 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=23 5-htd_gr2td_minfill_iterative_100_20.sh
+width=24 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 5}
+
+RandomHolmeKim_300_2_2.gr was solved by 8 solvers
+width=26 5-htd_gr2td_mindegree_exhaustive.sh
+width=26 5-htd_gr2td_minfill_exhaustive.sh
+width=26 5-htd_gr2td_minfill_iterative_100_20.sh
+width=26 9-tw-heuristic
+width=26 10-tw-heuristic
+width=26 12-flow_cutter_pace16
+width=27 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=300 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+RandomHolmeKim_700_2_2.gr was solved by 8 solvers
+width=56 9-tw-heuristic
+width=57 5-htd_gr2td_mindegree_exhaustive.sh
+width=58 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=59 5-htd_gr2td_minfill_exhaustive.sh
+width=59 5-htd_gr2td_minfill_iterative_100_20.sh
+width=59 10-tw-heuristic
+width=59 12-flow_cutter_pace16
+width=700 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 4, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 5}
+
+RandomNewmanWattsStrogatz_100_5_3.gr was solved by 8 solvers
+width=22 5-htd_gr2td_mindegree_exhaustive.sh
+width=22 9-tw-heuristic
+width=22 12-flow_cutter_pace16
+width=23 5-htd_gr2td_minfill_exhaustive.sh
+width=23 5-htd_gr2td_minfill_iterative_100_20.sh
+width=24 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=24 10-tw-heuristic
+width=100 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+RandomNewmanWattsStrogatz_250_10_3.gr was solved by 7 solvers
+width=100 5-htd_gr2td_minfill_exhaustive.sh
+width=100 9-tw-heuristic
+width=102 5-htd_gr2td_mindegree_exhaustive.sh
+width=102 12-flow_cutter_pace16
+width=103 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=103 5-htd_gr2td_minfill_iterative_100_20.sh
+width=104 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 5}
+
+RandomTriangulation_800.gr was solved by 8 solvers
+width=51 9-tw-heuristic
+width=51 12-flow_cutter_pace16
+width=52 5-htd_gr2td_minfill_exhaustive.sh
+width=54 5-htd_gr2td_mindegree_exhaustive.sh
+width=55 5-htd_gr2td_minfill_iterative_100_20.sh
+width=56 10-tw-heuristic
+width=58 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=800 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 6, '10-tw-heuristic': 5, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '6-tw-heuristic': 8, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 7}
+
+RingedTree_10.gr was solved by 8 solvers
+width=21 5-htd_gr2td_mindegree_exhaustive.sh
+width=21 5-htd_gr2td_minfill_exhaustive.sh
+width=21 5-htd_gr2td_minfill_iterative_100_20.sh
+width=21 9-tw-heuristic
+width=22 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=22 10-tw-heuristic
+width=22 12-flow_cutter_pace16
+width=1023 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4, '6-tw-heuristic': 3}
+
+RingedTree_6.gr was solved by 8 solvers
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=10 12-flow_cutter_pace16
+width=33 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+RingedTree_8.gr was solved by 8 solvers
+width=15 5-htd_gr2td_mindegree_exhaustive.sh
+width=15 5-htd_gr2td_minfill_exhaustive.sh
+width=15 5-htd_gr2td_minfill_iterative_100_20.sh
+width=15 9-tw-heuristic
+width=16 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=16 10-tw-heuristic
+width=16 12-flow_cutter_pace16
+width=255 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4, '6-tw-heuristic': 3}
+
+SchlaefliGraph.gr was solved by 8 solvers
+width=22 5-htd_gr2td_minfill_exhaustive.sh
+width=22 5-htd_gr2td_minfill_iterative_100_20.sh
+width=22 9-tw-heuristic
+width=22 10-tw-heuristic
+width=22 12-flow_cutter_pace16
+width=23 1-tw-heuristic
+width=24 5-htd_gr2td_mindegree_exhaustive.sh
+width=24 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 2}
+
+ShrikhandeGraph.gr was solved by 8 solvers
+width=10 1-tw-heuristic
+width=10 5-htd_gr2td_mindegree_exhaustive.sh
+width=10 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=10 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1}
+
+SierpinskiGasketGraph_3.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+SimsGewirtzGraph.gr was solved by 8 solvers
+width=33 5-htd_gr2td_mindegree_exhaustive.sh
+width=33 5-htd_gr2td_minfill_exhaustive.sh
+width=33 5-htd_gr2td_minfill_iterative_100_20.sh
+width=36 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=36 10-tw-heuristic
+width=37 9-tw-heuristic
+width=37 12-flow_cutter_pace16
+width=51 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+SquaredSkewHadamardMatrixGraph_2.gr was solved by 8 solvers
+width=41 5-htd_gr2td_mindegree_exhaustive.sh
+width=41 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=42 5-htd_gr2td_minfill_exhaustive.sh
+width=42 5-htd_gr2td_minfill_iterative_100_20.sh
+width=42 9-tw-heuristic
+width=42 10-tw-heuristic
+width=42 12-flow_cutter_pace16
+width=45 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+SquaredSkewHadamardMatrixGraph_3.gr was solved by 9 solvers
+width=110 5-htd_gr2td_mindegree_exhaustive.sh
+width=110 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=110 5-htd_gr2td_minfill_exhaustive.sh
+width=110 5-htd_gr2td_minfill_iterative_100_20.sh
+width=110 9-tw-heuristic
+width=110 10-tw-heuristic
+width=110 12-flow_cutter_pace16
+width=121 1-tw-heuristic
+width=121 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+StarGraph_100.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+SylvesterGraph.gr was solved by 7 solvers
+width=16 5-htd_gr2td_mindegree_exhaustive.sh
+width=17 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=17 10-tw-heuristic
+width=18 5-htd_gr2td_minfill_exhaustive.sh
+width=18 5-htd_gr2td_minfill_iterative_100_20.sh
+width=18 9-tw-heuristic
+width=18 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+SymplecticDualPolarGraph_4_4.gr was solved by 8 solvers
+width=64 5-htd_gr2td_mindegree_exhaustive.sh
+width=64 9-tw-heuristic
+width=64 10-tw-heuristic
+width=64 12-flow_cutter_pace16
+width=65 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=65 5-htd_gr2td_minfill_exhaustive.sh
+width=65 5-htd_gr2td_minfill_iterative_100_20.sh
+width=85 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3}
+
+SymplecticPolarGraph_4_4.gr was solved by 7 solvers
+width=64 5-htd_gr2td_mindegree_exhaustive.sh
+width=64 9-tw-heuristic
+width=65 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=65 5-htd_gr2td_minfill_exhaustive.sh
+width=65 5-htd_gr2td_minfill_iterative_100_20.sh
+width=65 10-tw-heuristic
+width=65 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+SzekeresSnarkGraph.gr was solved by 8 solvers
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+width=26 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+TaylorTwographDescendantSRG_3.gr was solved by 8 solvers
+width=18 5-htd_gr2td_mindegree_exhaustive.sh
+width=18 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=18 12-flow_cutter_pace16
+width=21 1-tw-heuristic
+width=21 5-htd_gr2td_minfill_exhaustive.sh
+width=21 5-htd_gr2td_minfill_iterative_100_20.sh
+width=21 9-tw-heuristic
+width=21 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '9-tw-heuristic': 2}
+
+TaylorTwographSRG_3.gr was solved by 8 solvers
+width=23 1-tw-heuristic
+width=23 5-htd_gr2td_mindegree_exhaustive.sh
+width=23 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=23 5-htd_gr2td_minfill_exhaustive.sh
+width=23 5-htd_gr2td_minfill_iterative_100_20.sh
+width=23 9-tw-heuristic
+width=23 10-tw-heuristic
+width=23 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1}
+
+Toroidal6RegularGrid2dGraph_4_6.gr was solved by 8 solvers
+width=10 5-htd_gr2td_minfill_exhaustive.sh
+width=10 5-htd_gr2td_minfill_iterative_100_20.sh
+width=10 9-tw-heuristic
+width=10 10-tw-heuristic
+width=11 5-htd_gr2td_mindegree_exhaustive.sh
+width=11 12-flow_cutter_pace16
+width=12 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=16 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 4}
+
+Tutte12Cage.gr was solved by 7 solvers
+width=27 5-htd_gr2td_minfill_exhaustive.sh
+width=27 9-tw-heuristic
+width=28 5-htd_gr2td_mindegree_exhaustive.sh
+width=28 12-flow_cutter_pace16
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 5}
+
+WheelGraph_100.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=100 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+WorldMap.gr was solved by 8 solvers
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+aes_32_3_keyfind_1.gaifman.gr was solved by 7 solvers
+width=71 12-flow_cutter_pace16
+width=76 5-htd_gr2td_mindegree_exhaustive.sh
+width=76 9-tw-heuristic
+width=78 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=78 5-htd_gr2td_minfill_exhaustive.sh
+width=78 5-htd_gr2td_minfill_iterative_100_20.sh
+width=78 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '1-tw-heuristic': 4}
+
+aes_64_1_keyfind_1.gaifman.gr was solved by 9 solvers
+width=56 5-htd_gr2td_minfill_exhaustive.sh
+width=56 5-htd_gr2td_minfill_iterative_100_20.sh
+width=56 10-tw-heuristic
+width=56 12-flow_cutter_pace16
+width=62 9-tw-heuristic
+width=65 5-htd_gr2td_mindegree_exhaustive.sh
+width=71 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=596 1-tw-heuristic
+width=596 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 5}
+
+contiki_calc_input_to_operand1.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_collect_enqueue_dummy_packet.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_collect_received_announcement.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_collect_send_ack.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_collect_send_next_packet.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_collect_send_queued_packet.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=30 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_contikimac_input_packet.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=17 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_contikimac_powercycle.gr was solved by 9 solvers
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+width=166 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_ctk_ctk_menu_add.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_cxmac_input_packet.gr was solved by 8 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_dhcpc_dhcpc_init.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_dhcpc_dhcpc_request.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_dhcpc_handle_dhcp.gr was solved by 7 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+contiki_httpd-cfs_send_file.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_httpd-cfs_send_headers.gr was solved by 8 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_ifft_ifft.gr was solved by 8 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_ircc_handle_connection.gr was solved by 9 solvers
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+width=138 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3, '6-tw-heuristic': 1}
+
+contiki_ircc_list_channel.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_lpp_dutycycle.gr was solved by 9 solvers
+width=6 5-htd_gr2td_mindegree_exhaustive.sh
+width=6 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=6 5-htd_gr2td_minfill_exhaustive.sh
+width=6 5-htd_gr2td_minfill_iterative_100_20.sh
+width=6 6-tw-heuristic
+width=6 9-tw-heuristic
+width=6 10-tw-heuristic
+width=6 12-flow_cutter_pace16
+width=40 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_lpp_init.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_lpp_send_packet.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=14 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_lpp_send_probe.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=12 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_nullrdc_packet_input.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_polite-announcement_send_timer.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_powertrace_add_stats.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=6 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_powertrace_powertrace_print.gr was solved by 8 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_process_exit_process.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_profile_profile_episode_start.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_psock_psock_generator_send.gr was solved by 9 solvers
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_psock_psock_readto.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=5 9-tw-heuristic
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3, '6-tw-heuristic': 1}
+
+contiki_ringbuf_ringbuf_put.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_route-discovery_route_discovery_discover.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=6 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_rudolph1_rudolph1_open.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_rudolph1_write_data.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_serial-line_process_thread_serial_line_process.gr was solved by 9 solvers
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-base64_base64_add_char.gr was solved by 8 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-collect-view_process_thread_collect_view_data_process.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=15 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-netperf_memcpy_misaligned.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-ps_process_thread_shell_ps_process.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=6 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-rime-debug_recv_broadcast.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_shell-rime-ping_recv_mesh.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=14 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-rime_process_thread_shell_send_process.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=15 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-rime_recv_collect.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell-sendtest_read_chunk.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_shell-text_process_thread_shell_echo_process.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell_process_thread_shell_server_process.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_shell_shell_register_command.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_tcpip_eventhandler.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_uip-neighbor_uip_neighbor_add.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_uip-neighbor_uip_neighbor_periodic.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_uip-over-mesh_recv_data.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_uip_uip_connect.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=21 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_uip_uip_init.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_uip_uip_unlisten.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+contiki_webclient_senddata.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=108 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+contiki_webclient_webclient_appcall.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=10 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+dimacs_anna.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+dimacs_fpsol2.i.1-pp.gr was solved by 9 solvers
+width=58 12-flow_cutter_pace16
+width=73 5-htd_gr2td_mindegree_exhaustive.sh
+width=73 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=73 5-htd_gr2td_minfill_exhaustive.sh
+width=73 5-htd_gr2td_minfill_iterative_100_20.sh
+width=73 9-tw-heuristic
+width=73 10-tw-heuristic
+width=83 1-tw-heuristic
+width=191 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_fpsol2.i.1.gr was solved by 9 solvers
+width=51 5-htd_gr2td_mindegree_exhaustive.sh
+width=51 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=51 5-htd_gr2td_minfill_exhaustive.sh
+width=51 5-htd_gr2td_minfill_iterative_100_20.sh
+width=51 9-tw-heuristic
+width=51 10-tw-heuristic
+width=51 12-flow_cutter_pace16
+width=210 1-tw-heuristic
+width=210 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_fpsol2.i.3-pp.gr was solved by 7 solvers
+width=29 5-htd_gr2td_mindegree_exhaustive.sh
+width=29 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 9-tw-heuristic
+width=29 10-tw-heuristic
+width=29 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_fpsol2.i.3.gr was solved by 8 solvers
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 10-tw-heuristic
+width=32 12-flow_cutter_pace16
+width=33 5-htd_gr2td_mindegree_exhaustive.sh
+width=33 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=33 9-tw-heuristic
+width=56 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 4}
+
+dimacs_games120.gr was solved by 8 solvers
+width=26 5-htd_gr2td_mindegree_exhaustive.sh
+width=26 5-htd_gr2td_minfill_exhaustive.sh
+width=26 5-htd_gr2td_minfill_iterative_100_20.sh
+width=26 9-tw-heuristic
+width=26 10-tw-heuristic
+width=26 12-flow_cutter_pace16
+width=27 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=120 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 3}
+
+dimacs_homer.gr was solved by 8 solvers
+width=26 5-htd_gr2td_minfill_exhaustive.sh
+width=26 5-htd_gr2td_minfill_iterative_100_20.sh
+width=26 9-tw-heuristic
+width=26 10-tw-heuristic
+width=26 12-flow_cutter_pace16
+width=28 5-htd_gr2td_mindegree_exhaustive.sh
+width=28 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=556 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_inithx.i.1.gr was solved by 8 solvers
+width=51 5-htd_gr2td_minfill_exhaustive.sh
+width=51 5-htd_gr2td_minfill_iterative_100_20.sh
+width=51 10-tw-heuristic
+width=51 12-flow_cutter_pace16
+width=54 9-tw-heuristic
+width=59 5-htd_gr2td_mindegree_exhaustive.sh
+width=59 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=309 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 4}
+
+dimacs_inithx.i.2-pp.gr was solved by 9 solvers
+width=29 5-htd_gr2td_mindegree_exhaustive.sh
+width=29 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 9-tw-heuristic
+width=29 10-tw-heuristic
+width=29 12-flow_cutter_pace16
+width=38 1-tw-heuristic
+width=220 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_inithx.i.2.gr was solved by 9 solvers
+width=29 5-htd_gr2td_mindegree_exhaustive.sh
+width=29 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 9-tw-heuristic
+width=29 10-tw-heuristic
+width=29 12-flow_cutter_pace16
+width=299 1-tw-heuristic
+width=299 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_inithx.i.3-pp.gr was solved by 9 solvers
+width=27 5-htd_gr2td_minfill_exhaustive.sh
+width=27 5-htd_gr2td_minfill_iterative_100_20.sh
+width=27 10-tw-heuristic
+width=28 12-flow_cutter_pace16
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=56 1-tw-heuristic
+width=196 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 4}
+
+dimacs_jean.gr was solved by 9 solvers
+width=8 1-tw-heuristic
+width=8 5-htd_gr2td_mindegree_exhaustive.sh
+width=8 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=8 5-htd_gr2td_minfill_exhaustive.sh
+width=8 5-htd_gr2td_minfill_iterative_100_20.sh
+width=8 6-tw-heuristic
+width=8 9-tw-heuristic
+width=8 10-tw-heuristic
+width=8 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+dimacs_le450_15a-pp.gr was solved by 8 solvers
+width=171 12-flow_cutter_pace16
+width=173 9-tw-heuristic
+width=174 5-htd_gr2td_mindegree_exhaustive.sh
+width=175 5-htd_gr2td_minfill_exhaustive.sh
+width=175 5-htd_gr2td_minfill_iterative_100_20.sh
+width=175 10-tw-heuristic
+width=176 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=431 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 6}
+
+dimacs_le450_15a.gr was solved by 9 solvers
+width=172 12-flow_cutter_pace16
+width=174 5-htd_gr2td_mindegree_exhaustive.sh
+width=174 9-tw-heuristic
+width=179 5-htd_gr2td_minfill_exhaustive.sh
+width=179 5-htd_gr2td_minfill_iterative_100_20.sh
+width=179 10-tw-heuristic
+width=181 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=434 1-tw-heuristic
+width=434 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 5}
+
+dimacs_le450_15b.gr was solved by 9 solvers
+width=224 5-htd_gr2td_mindegree_exhaustive.sh
+width=225 9-tw-heuristic
+width=226 12-flow_cutter_pace16
+width=228 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=231 5-htd_gr2td_minfill_exhaustive.sh
+width=231 5-htd_gr2td_minfill_iterative_100_20.sh
+width=231 10-tw-heuristic
+width=429 1-tw-heuristic
+width=429 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 5, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 5, '5-htd_gr2td_minfill_iterative_100_20.sh': 5, '1-tw-heuristic': 6}
+
+dimacs_le450_15c.gr was solved by 8 solvers
+width=295 12-flow_cutter_pace16
+width=297 9-tw-heuristic
+width=301 5-htd_gr2td_minfill_exhaustive.sh
+width=301 5-htd_gr2td_minfill_iterative_100_20.sh
+width=301 10-tw-heuristic
+width=309 5-htd_gr2td_mindegree_exhaustive.sh
+width=309 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=445 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 5}
+
+dimacs_le450_15d.gr was solved by 8 solvers
+width=227 12-flow_cutter_pace16
+width=228 9-tw-heuristic
+width=230 5-htd_gr2td_mindegree_exhaustive.sh
+width=236 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=239 5-htd_gr2td_minfill_exhaustive.sh
+width=239 5-htd_gr2td_minfill_iterative_100_20.sh
+width=239 10-tw-heuristic
+width=447 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 5, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 5, '5-htd_gr2td_minfill_iterative_100_20.sh': 5, '1-tw-heuristic': 6}
+
+dimacs_le450_25a-pp.gr was solved by 8 solvers
+width=188 12-flow_cutter_pace16
+width=193 9-tw-heuristic
+width=195 5-htd_gr2td_mindegree_exhaustive.sh
+width=199 5-htd_gr2td_minfill_exhaustive.sh
+width=199 5-htd_gr2td_minfill_iterative_100_20.sh
+width=199 10-tw-heuristic
+width=200 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=416 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 6}
+
+dimacs_le450_25a.gr was solved by 8 solvers
+width=185 12-flow_cutter_pace16
+width=195 5-htd_gr2td_mindegree_exhaustive.sh
+width=195 5-htd_gr2td_minfill_exhaustive.sh
+width=195 5-htd_gr2td_minfill_iterative_100_20.sh
+width=195 10-tw-heuristic
+width=196 9-tw-heuristic
+width=199 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=426 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 6, '6-tw-heuristic': 5}
+
+dimacs_le450_25b-pp.gr was solved by 9 solvers
+width=144 12-flow_cutter_pace16
+width=147 5-htd_gr2td_minfill_exhaustive.sh
+width=147 5-htd_gr2td_minfill_iterative_100_20.sh
+width=149 9-tw-heuristic
+width=151 5-htd_gr2td_mindegree_exhaustive.sh
+width=151 10-tw-heuristic
+width=152 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=420 1-tw-heuristic
+width=420 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 6}
+
+dimacs_le450_25b.gr was solved by 8 solvers
+width=145 12-flow_cutter_pace16
+width=147 5-htd_gr2td_minfill_exhaustive.sh
+width=147 5-htd_gr2td_minfill_iterative_100_20.sh
+width=147 9-tw-heuristic
+width=149 10-tw-heuristic
+width=157 5-htd_gr2td_mindegree_exhaustive.sh
+width=161 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=427 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 6}
+
+dimacs_le450_25c.gr was solved by 8 solvers
+width=207 9-tw-heuristic
+width=209 12-flow_cutter_pace16
+width=216 5-htd_gr2td_mindegree_exhaustive.sh
+width=216 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=216 10-tw-heuristic
+width=219 5-htd_gr2td_minfill_exhaustive.sh
+width=219 5-htd_gr2td_minfill_iterative_100_20.sh
+width=442 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '1-tw-heuristic': 5}
+
+dimacs_le450_25d.gr was solved by 8 solvers
+width=285 12-flow_cutter_pace16
+width=287 9-tw-heuristic
+width=291 5-htd_gr2td_minfill_exhaustive.sh
+width=291 5-htd_gr2td_minfill_iterative_100_20.sh
+width=291 10-tw-heuristic
+width=295 5-htd_gr2td_mindegree_exhaustive.sh
+width=296 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=444 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 7, '6-tw-heuristic': 6}
+
+dimacs_le450_5a.gr was solved by 8 solvers
+width=174 9-tw-heuristic
+width=176 12-flow_cutter_pace16
+width=178 5-htd_gr2td_mindegree_exhaustive.sh
+width=178 5-htd_gr2td_minfill_exhaustive.sh
+width=178 5-htd_gr2td_minfill_iterative_100_20.sh
+width=178 10-tw-heuristic
+width=184 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=439 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 5}
+
+dimacs_le450_5b.gr was solved by 8 solvers
+width=168 9-tw-heuristic
+width=174 5-htd_gr2td_mindegree_exhaustive.sh
+width=174 12-flow_cutter_pace16
+width=176 5-htd_gr2td_minfill_exhaustive.sh
+width=176 5-htd_gr2td_minfill_iterative_100_20.sh
+width=179 10-tw-heuristic
+width=184 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=436 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 6}
+
+dimacs_le450_5c.gr was solved by 9 solvers
+width=202 12-flow_cutter_pace16
+width=203 5-htd_gr2td_minfill_exhaustive.sh
+width=203 5-htd_gr2td_minfill_iterative_100_20.sh
+width=203 9-tw-heuristic
+width=203 10-tw-heuristic
+width=205 5-htd_gr2td_mindegree_exhaustive.sh
+width=209 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=440 1-tw-heuristic
+width=440 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 5}
+
+dimacs_le450_5d.gr was solved by 7 solvers
+width=250 5-htd_gr2td_minfill_exhaustive.sh
+width=250 5-htd_gr2td_minfill_iterative_100_20.sh
+width=250 10-tw-heuristic
+width=252 12-flow_cutter_pace16
+width=268 5-htd_gr2td_mindegree_exhaustive.sh
+width=268 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=268 9-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 4}
+
+dimacs_miles1000.gr was solved by 7 solvers
+width=28 5-htd_gr2td_minfill_exhaustive.sh
+width=28 5-htd_gr2td_minfill_iterative_100_20.sh
+width=28 9-tw-heuristic
+width=28 10-tw-heuristic
+width=28 12-flow_cutter_pace16
+width=33 5-htd_gr2td_mindegree_exhaustive.sh
+width=33 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_miles250.gr was solved by 9 solvers
+width=9 1-tw-heuristic
+width=9 5-htd_gr2td_mindegree_exhaustive.sh
+width=9 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=9 5-htd_gr2td_minfill_exhaustive.sh
+width=9 5-htd_gr2td_minfill_iterative_100_20.sh
+width=9 6-tw-heuristic
+width=9 9-tw-heuristic
+width=9 10-tw-heuristic
+width=9 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+dimacs_miles750.gr was solved by 8 solvers
+width=28 5-htd_gr2td_minfill_exhaustive.sh
+width=28 5-htd_gr2td_minfill_iterative_100_20.sh
+width=28 9-tw-heuristic
+width=28 10-tw-heuristic
+width=28 12-flow_cutter_pace16
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=128 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_mulsol.i.1.gr was solved by 8 solvers
+width=43 12-flow_cutter_pace16
+width=44 1-tw-heuristic
+width=44 5-htd_gr2td_mindegree_exhaustive.sh
+width=44 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=44 5-htd_gr2td_minfill_exhaustive.sh
+width=44 5-htd_gr2td_minfill_iterative_100_20.sh
+width=44 9-tw-heuristic
+width=44 10-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '9-tw-heuristic': 2}
+
+dimacs_mulsol.i.2.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=32 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_mulsol.i.3.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=32 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_mulsol.i.4-pp.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=31 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_mulsol.i.5-pp.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=31 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_mulsol.i.5.gr was solved by 7 solvers
+width=29 5-htd_gr2td_mindegree_exhaustive.sh
+width=29 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 9-tw-heuristic
+width=29 10-tw-heuristic
+width=29 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 2, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_myciel5.gr was solved by 8 solvers
+width=13 5-htd_gr2td_mindegree_exhaustive.sh
+width=13 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=13 9-tw-heuristic
+width=13 10-tw-heuristic
+width=13 12-flow_cutter_pace16
+width=14 5-htd_gr2td_minfill_exhaustive.sh
+width=14 5-htd_gr2td_minfill_iterative_100_20.sh
+width=17 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_myciel6.gr was solved by 8 solvers
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=94 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_queen11_11.gr was solved by 8 solvers
+width=55 5-htd_gr2td_minfill_exhaustive.sh
+width=55 5-htd_gr2td_minfill_iterative_100_20.sh
+width=55 9-tw-heuristic
+width=55 10-tw-heuristic
+width=55 12-flow_cutter_pace16
+width=57 5-htd_gr2td_mindegree_exhaustive.sh
+width=57 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=121 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 4, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_queen12_12.gr was solved by 8 solvers
+width=67 9-tw-heuristic
+width=68 5-htd_gr2td_mindegree_exhaustive.sh
+width=68 12-flow_cutter_pace16
+width=71 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=73 5-htd_gr2td_minfill_exhaustive.sh
+width=73 5-htd_gr2td_minfill_iterative_100_20.sh
+width=73 10-tw-heuristic
+width=144 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '1-tw-heuristic': 5}
+
+dimacs_queen13_13.gr was solved by 9 solvers
+width=66 5-htd_gr2td_minfill_exhaustive.sh
+width=66 5-htd_gr2td_minfill_iterative_100_20.sh
+width=66 10-tw-heuristic
+width=67 12-flow_cutter_pace16
+width=70 5-htd_gr2td_mindegree_exhaustive.sh
+width=71 9-tw-heuristic
+width=72 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=169 1-tw-heuristic
+width=169 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 4, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '1-tw-heuristic': 6}
+
+dimacs_queen14_14.gr was solved by 9 solvers
+width=137 12-flow_cutter_pace16
+width=141 9-tw-heuristic
+width=141 10-tw-heuristic
+width=143 5-htd_gr2td_minfill_exhaustive.sh
+width=143 5-htd_gr2td_minfill_iterative_100_20.sh
+width=152 5-htd_gr2td_mindegree_exhaustive.sh
+width=152 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=196 1-tw-heuristic
+width=196 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 5}
+
+dimacs_queen15_15.gr was solved by 9 solvers
+width=98 12-flow_cutter_pace16
+width=101 5-htd_gr2td_mindegree_exhaustive.sh
+width=103 9-tw-heuristic
+width=104 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=104 10-tw-heuristic
+width=107 5-htd_gr2td_minfill_exhaustive.sh
+width=107 5-htd_gr2td_minfill_iterative_100_20.sh
+width=225 1-tw-heuristic
+width=225 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 4, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 5, '5-htd_gr2td_minfill_iterative_100_20.sh': 5, '1-tw-heuristic': 6}
+
+dimacs_queen16_16.gr was solved by 8 solvers
+width=125 12-flow_cutter_pace16
+width=130 5-htd_gr2td_mindegree_exhaustive.sh
+width=131 10-tw-heuristic
+width=132 9-tw-heuristic
+width=134 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=135 5-htd_gr2td_minfill_exhaustive.sh
+width=135 5-htd_gr2td_minfill_iterative_100_20.sh
+width=256 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 4, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 8, '5-htd_gr2td_minfill_exhaustive.sh': 6, '5-htd_gr2td_minfill_iterative_100_20.sh': 6, '1-tw-heuristic': 7}
+
+dimacs_queen5_5.gr was solved by 9 solvers
+width=12 1-tw-heuristic
+width=12 5-htd_gr2td_mindegree_exhaustive.sh
+width=12 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=12 5-htd_gr2td_minfill_exhaustive.sh
+width=12 5-htd_gr2td_minfill_iterative_100_20.sh
+width=12 6-tw-heuristic
+width=12 9-tw-heuristic
+width=12 10-tw-heuristic
+width=12 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+dimacs_queen6_6.gr was solved by 8 solvers
+width=20 5-htd_gr2td_mindegree_exhaustive.sh
+width=20 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=20 5-htd_gr2td_minfill_exhaustive.sh
+width=20 5-htd_gr2td_minfill_iterative_100_20.sh
+width=20 9-tw-heuristic
+width=20 10-tw-heuristic
+width=20 12-flow_cutter_pace16
+width=24 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2}
+
+dimacs_queen7_7.gr was solved by 8 solvers
+width=29 5-htd_gr2td_minfill_exhaustive.sh
+width=29 5-htd_gr2td_minfill_iterative_100_20.sh
+width=29 10-tw-heuristic
+width=30 9-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=32 5-htd_gr2td_mindegree_exhaustive.sh
+width=32 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=37 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '1-tw-heuristic': 4}
+
+dimacs_queen8_12.gr was solved by 9 solvers
+width=64 9-tw-heuristic
+width=65 5-htd_gr2td_mindegree_exhaustive.sh
+width=65 12-flow_cutter_pace16
+width=67 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=67 10-tw-heuristic
+width=69 5-htd_gr2td_minfill_exhaustive.sh
+width=69 5-htd_gr2td_minfill_iterative_100_20.sh
+width=96 1-tw-heuristic
+width=96 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 4, '5-htd_gr2td_minfill_iterative_100_20.sh': 4, '1-tw-heuristic': 5}
+
+dimacs_queen9_9.gr was solved by 9 solvers
+width=57 9-tw-heuristic
+width=57 12-flow_cutter_pace16
+width=58 5-htd_gr2td_mindegree_exhaustive.sh
+width=58 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=58 5-htd_gr2td_minfill_exhaustive.sh
+width=58 5-htd_gr2td_minfill_iterative_100_20.sh
+width=58 10-tw-heuristic
+width=81 1-tw-heuristic
+width=81 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_school1-pp.gr was solved by 8 solvers
+width=166 12-flow_cutter_pace16
+width=182 5-htd_gr2td_minfill_exhaustive.sh
+width=182 5-htd_gr2td_minfill_iterative_100_20.sh
+width=182 10-tw-heuristic
+width=183 9-tw-heuristic
+width=197 5-htd_gr2td_mindegree_exhaustive.sh
+width=197 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=352 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 3, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 6, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 5}
+
+dimacs_school1.gr was solved by 8 solvers
+width=117 12-flow_cutter_pace16
+width=124 9-tw-heuristic
+width=133 5-htd_gr2td_minfill_exhaustive.sh
+width=133 5-htd_gr2td_minfill_iterative_100_20.sh
+width=133 10-tw-heuristic
+width=138 5-htd_gr2td_mindegree_exhaustive.sh
+width=141 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=375 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 3, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 7, '6-tw-heuristic': 6}
+
+dimacs_school1_nsh-pp.gr was solved by 8 solvers
+width=95 10-tw-heuristic
+width=95 12-flow_cutter_pace16
+width=96 9-tw-heuristic
+width=99 5-htd_gr2td_minfill_exhaustive.sh
+width=99 5-htd_gr2td_minfill_iterative_100_20.sh
+width=100 5-htd_gr2td_mindegree_exhaustive.sh
+width=100 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=324 6-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 4, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 2, '5-htd_gr2td_minfill_iterative_100_20.sh': 3, '5-htd_gr2td_minfill_exhaustive.sh': 3, '5-htd_gr2td_mindegree_exhaustive.sh': 4, '1-tw-heuristic': 6, '6-tw-heuristic': 5}
+
+dimacs_school1_nsh.gr was solved by 8 solvers
+width=90 10-tw-heuristic
+width=91 5-htd_gr2td_minfill_exhaustive.sh
+width=91 5-htd_gr2td_minfill_iterative_100_20.sh
+width=93 12-flow_cutter_pace16
+width=103 9-tw-heuristic
+width=109 5-htd_gr2td_mindegree_exhaustive.sh
+width=109 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=342 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 5, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 3, '9-tw-heuristic': 4, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 7, '5-htd_gr2td_minfill_exhaustive.sh': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 5, '1-tw-heuristic': 6}
+
+dimacs_zeroin.i.2.gr was solved by 9 solvers
+width=25 5-htd_gr2td_minfill_exhaustive.sh
+width=25 5-htd_gr2td_minfill_iterative_100_20.sh
+width=25 6-tw-heuristic
+width=25 9-tw-heuristic
+width=25 10-tw-heuristic
+width=25 12-flow_cutter_pace16
+width=26 1-tw-heuristic
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '1-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 1}
+
+dimacs_zeroin.i.3-pp.gr was solved by 7 solvers
+width=30 5-htd_gr2td_minfill_exhaustive.sh
+width=30 5-htd_gr2td_minfill_iterative_100_20.sh
+width=30 9-tw-heuristic
+width=30 10-tw-heuristic
+width=30 12-flow_cutter_pace16
+width=37 5-htd_gr2td_mindegree_exhaustive.sh
+width=37 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 2, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '6-tw-heuristic': 3, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 2, '1-tw-heuristic': 3}
+
+dimacs_zeroin.i.3.gr was solved by 9 solvers
+width=25 5-htd_gr2td_minfill_exhaustive.sh
+width=25 5-htd_gr2td_minfill_iterative_100_20.sh
+width=25 6-tw-heuristic
+width=25 9-tw-heuristic
+width=25 10-tw-heuristic
+width=25 12-flow_cutter_pace16
+width=26 1-tw-heuristic
+width=30 5-htd_gr2td_mindegree_exhaustive.sh
+width=30 5-htd_gr2td_mindegree_iterative_100_20.sh
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '1-tw-heuristic': 2, '5-htd_gr2td_mindegree_exhaustive.sh': 3, '6-tw-heuristic': 1}
+
+fuzix_abort_abort.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_bankfixe_pagemap_alloc.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_clock_gettime_clock_gettime.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_clock_gettime_div10quickm.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_clock_settime_clock_settime.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_devf_fd_transfer.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=20 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_devio_bfind.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_devio_kprintf.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_difftime_difftime.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_fgets_fgets.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=5 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_filesys_filename.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_filesys_getinode.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=7 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_filesys_i_open.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=129 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_filesys_newfstab.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_filesys_srch_mt.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_gethostname_gethostname.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_getpass__gets.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_inode_rwsetup.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_malloc___insert_chunk.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=14 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_nanosleep_clock_nanosleep.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=15 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_process_getproc.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_qsort__lqsort.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=13 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_ran_rand.gr was solved by 9 solvers
+width=3 1-tw-heuristic
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_readdir_readdir.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=8 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_regexp_regcomp.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=34 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_se_ycomp.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=11 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_setbuffer_setbuffer.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_setenv_setenv.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=23 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_stat_statfix.gr was solved by 9 solvers
+width=2 1-tw-heuristic
+width=2 5-htd_gr2td_mindegree_exhaustive.sh
+width=2 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=2 5-htd_gr2td_minfill_exhaustive.sh
+width=2 5-htd_gr2td_minfill_iterative_100_20.sh
+width=2 6-tw-heuristic
+width=2 9-tw-heuristic
+width=2 10-tw-heuristic
+width=2 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+fuzix_syscall_fs2__fchdir.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_syscall_fs2_chown_op.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_syscall_proc__time.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=9 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_sysconf_sysconf.gr was solved by 9 solvers
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+width=14 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_tty_tty_read.gr was solved by 9 solvers
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+width=17 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_usermem_ugets.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+fuzix_vfscanf_vfscanf.gr was solved by 8 solvers
+width=7 5-htd_gr2td_mindegree_exhaustive.sh
+width=7 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=7 5-htd_gr2td_minfill_exhaustive.sh
+width=7 5-htd_gr2td_minfill_iterative_100_20.sh
+width=7 6-tw-heuristic
+width=7 9-tw-heuristic
+width=7 10-tw-heuristic
+width=7 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+random4reg.gr was solved by 8 solvers
+width=13 5-htd_gr2td_mindegree_exhaustive.sh
+width=13 5-htd_gr2td_minfill_exhaustive.sh
+width=13 9-tw-heuristic
+width=14 5-htd_gr2td_minfill_iterative_100_20.sh
+width=14 10-tw-heuristic
+width=14 12-flow_cutter_pace16
+width=15 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=37 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 3, '10-tw-heuristic': 2, '12-flow_cutter_pace16': 2, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 2, '6-tw-heuristic': 5, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 4}
+
+stdlib_gmtime.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=4 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+stdlib_mktime.gr was solved by 9 solvers
+width=4 1-tw-heuristic
+width=4 5-htd_gr2td_mindegree_exhaustive.sh
+width=4 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=4 5-htd_gr2td_minfill_exhaustive.sh
+width=4 5-htd_gr2td_minfill_iterative_100_20.sh
+width=4 6-tw-heuristic
+width=4 9-tw-heuristic
+width=4 10-tw-heuristic
+width=4 12-flow_cutter_pace16
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '1-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '9-tw-heuristic': 1, '6-tw-heuristic': 1}
+
+stdlib_print_format.gr was solved by 9 solvers
+width=5 5-htd_gr2td_mindegree_exhaustive.sh
+width=5 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=5 5-htd_gr2td_minfill_exhaustive.sh
+width=5 5-htd_gr2td_minfill_iterative_100_20.sh
+width=5 6-tw-heuristic
+width=5 9-tw-heuristic
+width=5 10-tw-heuristic
+width=5 12-flow_cutter_pace16
+width=544 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+stdlib_sincoshf.gr was solved by 9 solvers
+width=3 5-htd_gr2td_mindegree_exhaustive.sh
+width=3 5-htd_gr2td_mindegree_iterative_100_20.sh
+width=3 5-htd_gr2td_minfill_exhaustive.sh
+width=3 5-htd_gr2td_minfill_iterative_100_20.sh
+width=3 6-tw-heuristic
+width=3 9-tw-heuristic
+width=3 10-tw-heuristic
+width=3 12-flow_cutter_pace16
+width=23 1-tw-heuristic
+{'5-htd_gr2td_mindegree_iterative_100_20.sh': 1, '10-tw-heuristic': 1, '12-flow_cutter_pace16': 1, '9-tw-heuristic': 1, '5-htd_gr2td_minfill_iterative_100_20.sh': 1, '5-htd_gr2td_minfill_exhaustive.sh': 1, '5-htd_gr2td_mindegree_exhaustive.sh': 1, '1-tw-heuristic': 2, '6-tw-heuristic': 1}
+
+== Statistics per solver ==
+Total number of solved instances: 282
+282 solved by 10-tw-heuristic
+282 solved by 12-flow_cutter_pace16
+282 solved by 5-htd_gr2td_mindegree_exhaustive.sh
+282 solved by 5-htd_gr2td_mindegree_iterative_100_20.sh
+282 solved by 5-htd_gr2td_minfill_exhaustive.sh
+282 solved by 5-htd_gr2td_minfill_iterative_100_20.sh
+282 solved by 9-tw-heuristic
+241 solved by 1-tw-heuristic
+186 solved by 6-tw-heuristic
+
+== Pairwise comparisons ==
+(Only count an instance if solver1 and solver2 have a distinct rank)
+
+1-tw-heuristic
+better than 10-tw-heuristic on 0.000000% of instances (path=0)
+better than 12-flow_cutter_pace16 on 0.000000% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 2.242152% of instances (path=0)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 2.252252% of instances (path=0)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 0.000000% of instances (path=0)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 0.000000% of instances (path=0)
+better than 6-tw-heuristic on 41.208791% of instances (path=0)
+better than 9-tw-heuristic on 0.000000% of instances (path=0)
+
+10-tw-heuristic
+better than 1-tw-heuristic on 100.000000% of instances (path=217)
+better than 12-flow_cutter_pace16 on 27.142857% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 41.558442% of instances (path=0)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 75.714286% of instances (path=53)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 34.782609% of instances (path=0)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 43.902439% of instances (path=0)
+better than 6-tw-heuristic on 97.674419% of instances (path=126)
+better than 9-tw-heuristic on 29.166667% of instances (path=0)
+
+12-flow_cutter_pace16
+better than 1-tw-heuristic on 100.000000% of instances (path=222)
+better than 10-tw-heuristic on 72.857143% of instances (path=51)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 65.789474% of instances (path=50)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 85.227273% of instances (path=75)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 57.894737% of instances (path=44)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 70.270270% of instances (path=52)
+better than 6-tw-heuristic on 96.240602% of instances (path=128)
+better than 9-tw-heuristic on 56.164384% of instances (path=41)
+
+5-htd_gr2td_mindegree_exhaustive.sh
+better than 1-tw-heuristic on 97.757848% of instances (path=218)
+better than 10-tw-heuristic on 58.441558% of instances (path=45)
+better than 12-flow_cutter_pace16 on 34.210526% of instances (path=0)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 98.412698% of instances (path=62)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 40.259740% of instances (path=0)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 52.439024% of instances (path=43)
+better than 6-tw-heuristic on 94.117647% of instances (path=128)
+better than 9-tw-heuristic on 29.166667% of instances (path=0)
+
+5-htd_gr2td_mindegree_iterative_100_20.sh
+better than 1-tw-heuristic on 97.747748% of instances (path=217)
+better than 10-tw-heuristic on 24.285714% of instances (path=0)
+better than 12-flow_cutter_pace16 on 14.772727% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 1.587302% of instances (path=0)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 20.879121% of instances (path=0)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 24.096386% of instances (path=0)
+better than 6-tw-heuristic on 92.647059% of instances (path=126)
+better than 9-tw-heuristic on 15.384615% of instances (path=0)
+
+5-htd_gr2td_minfill_exhaustive.sh
+better than 1-tw-heuristic on 100.000000% of instances (path=220)
+better than 10-tw-heuristic on 65.217391% of instances (path=45)
+better than 12-flow_cutter_pace16 on 42.105263% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 59.740260% of instances (path=46)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 79.120879% of instances (path=72)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 81.818182% of instances (path=43)
+better than 6-tw-heuristic on 100.000000% of instances (path=128)
+better than 9-tw-heuristic on 39.344262% of instances (path=0)
+
+5-htd_gr2td_minfill_iterative_100_20.sh
+better than 1-tw-heuristic on 100.000000% of instances (path=219)
+better than 10-tw-heuristic on 56.097561% of instances (path=23)
+better than 12-flow_cutter_pace16 on 29.729730% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 47.560976% of instances (path=0)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 75.903614% of instances (path=63)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 18.181818% of instances (path=0)
+better than 6-tw-heuristic on 96.923077% of instances (path=126)
+better than 9-tw-heuristic on 29.166667% of instances (path=0)
+
+6-tw-heuristic
+better than 1-tw-heuristic on 58.791209% of instances (path=107)
+better than 10-tw-heuristic on 2.325581% of instances (path=0)
+better than 12-flow_cutter_pace16 on 3.759398% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 5.882353% of instances (path=0)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 7.352941% of instances (path=0)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 0.000000% of instances (path=0)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 3.076923% of instances (path=0)
+better than 9-tw-heuristic on 3.053435% of instances (path=0)
+
+9-tw-heuristic
+better than 1-tw-heuristic on 100.000000% of instances (path=219)
+better than 10-tw-heuristic on 70.833333% of instances (path=51)
+better than 12-flow_cutter_pace16 on 43.835616% of instances (path=0)
+better than 5-htd_gr2td_mindegree_exhaustive.sh on 70.833333% of instances (path=51)
+better than 5-htd_gr2td_mindegree_iterative_100_20.sh on 84.615385% of instances (path=77)
+better than 5-htd_gr2td_minfill_exhaustive.sh on 60.655738% of instances (path=37)
+better than 5-htd_gr2td_minfill_iterative_100_20.sh on 70.833333% of instances (path=51)
+better than 6-tw-heuristic on 96.946565% of instances (path=127)
+
+== Final ranking (using Schulze method) ==
+12-flow_cutter_pace16
+9-tw-heuristic
+5-htd_gr2td_minfill_exhaustive.sh
+5-htd_gr2td_mindegree_exhaustive.sh
+5-htd_gr2td_minfill_iterative_100_20.sh
+10-tw-heuristic
+5-htd_gr2td_mindegree_iterative_100_20.sh
+6-tw-heuristic
+1-tw-heuristic

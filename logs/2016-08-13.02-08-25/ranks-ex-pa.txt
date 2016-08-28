@@ -1,0 +1,1156 @@
+== Participating Solvers: 3 ==
+3-PARALLEL-BZTreewidth-DP-LS.exe
+3-PARALLEL-BZTreewidth-DP.exe
+6-tw-exact-parallel
+
+
+== Statistics per instance ==
+AhrensSzekeresGeneralizedQuadrangleGraph_3.gr was solved by 2 solvers
+time_real=1.63 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.72 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+BalancedTree_3,5.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.25 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+BlanusaSecondSnarkGraph.gr was solved by 3 solvers
+time_real=0.24 6-tw-exact-parallel
+time_real=0.82 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.85 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+BrinkmannGraph.gr was solved by 3 solvers
+time_real=1.09 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=8.89 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+ChvatalGraph.gr was solved by 3 solvers
+time_real=0.20 6-tw-exact-parallel
+time_real=0.36 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.40 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+ClebschGraph.gr was solved by 3 solvers
+time_real=0.54 6-tw-exact-parallel
+time_real=0.56 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.60 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+CycleGraph_100.gr was solved by 3 solvers
+time_real=0.16 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+DesarguesGraph.gr was solved by 3 solvers
+time_real=0.59 6-tw-exact-parallel
+time_real=1.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.20 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+DodecahedralGraph.gr was solved by 3 solvers
+time_real=0.56 6-tw-exact-parallel
+time_real=1.19 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.25 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+DorogovtsevGoltsevMendesGraph.gr was solved by 3 solvers
+time_real=1.36 6-tw-exact-parallel
+time_real=5.76 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=6.01 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+DoubleStarSnark.gr was solved by 1 solvers
+time_real=9.84 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+DyckGraph.gr was solved by 2 solvers
+time_real=90.24 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=90.45 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+ErreraGraph.gr was solved by 3 solvers
+time_real=0.42 6-tw-exact-parallel
+time_real=0.69 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.71 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+FibonacciTree_10.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+FlowerSnark.gr was solved by 3 solvers
+time_real=0.58 6-tw-exact-parallel
+time_real=1.08 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.16 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+FolkmanGraph.gr was solved by 3 solvers
+time_real=0.63 6-tw-exact-parallel
+time_real=0.99 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.25 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+FriendshipGraph_10.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_10_0.gr was solved by 3 solvers
+time_real=0.20 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.23 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.27 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_10_1.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+GNP_20_20_0.gr was solved by 3 solvers
+time_real=0.28 6-tw-exact-parallel
+time_real=0.42 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.47 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_20_1.gr was solved by 3 solvers
+time_real=0.34 6-tw-exact-parallel
+time_real=0.35 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.41 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_30_0.gr was solved by 3 solvers
+time_real=0.73 6-tw-exact-parallel
+time_real=0.83 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.88 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_30_1.gr was solved by 3 solvers
+time_real=0.50 6-tw-exact-parallel
+time_real=0.56 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.56 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_40_0.gr was solved by 3 solvers
+time_real=0.53 6-tw-exact-parallel
+time_real=0.84 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.86 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_40_1.gr was solved by 3 solvers
+time_real=0.64 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.68 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.57 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+GNP_20_50_0.gr was solved by 3 solvers
+time_real=0.44 6-tw-exact-parallel
+time_real=0.91 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.02 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GNP_20_50_1.gr was solved by 3 solvers
+time_real=0.49 6-tw-exact-parallel
+time_real=0.83 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.88 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GTFS_VBB_EndeApr_Dez2016.zip_tram.gr.bz2 was solved by 3 solvers
+time_real=0.34 6-tw-exact-parallel
+time_real=0.85 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.91 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GeneralizedPetersenGraph_10_4.gr was solved by 3 solvers
+time_real=0.54 6-tw-exact-parallel
+time_real=0.97 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.13 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+GoethalsSeidelGraph_2_3.gr was solved by 3 solvers
+time_real=0.54 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.56 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.65 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GoldnerHararyGraph.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GossetGraph.gr was solved by 2 solvers
+time_real=36.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=36.48 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+GrotzschGraph.gr was solved by 3 solvers
+time_real=0.22 6-tw-exact-parallel
+time_real=0.35 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.37 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+HararyGraph_6_15.gr was solved by 3 solvers
+time_real=0.25 6-tw-exact-parallel
+time_real=0.57 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.58 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+HarborthGraph.gr was solved by 1 solvers
+time_real=7.76 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+HeawoodGraph.gr was solved by 3 solvers
+time_real=0.26 6-tw-exact-parallel
+time_real=0.61 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.63 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+HoffmanGraph.gr was solved by 3 solvers
+time_real=0.39 6-tw-exact-parallel
+time_real=0.63 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.69 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+HyperStarGraph_10_2.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+IcosahedralGraph.gr was solved by 3 solvers
+time_real=0.24 6-tw-exact-parallel
+time_real=0.38 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.39 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+KittellGraph.gr was solved by 3 solvers
+time_real=1.29 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.41 3-PARALLEL-BZTreewidth-DP.exe
+time_real=2.82 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+KneserGraph_10_2.gr was solved by 2 solvers
+time_real=8.60 3-PARALLEL-BZTreewidth-DP.exe
+time_real=8.69 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+LadderGraph_20.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.09 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+MarkstroemGraph.gr was solved by 3 solvers
+time_real=0.20 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.23 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.23 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+McGeeGraph.gr was solved by 3 solvers
+time_real=3.13 6-tw-exact-parallel
+time_real=6.44 3-PARALLEL-BZTreewidth-DP.exe
+time_real=6.63 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+NauruGraph.gr was solved by 3 solvers
+time_real=1.17 6-tw-exact-parallel
+time_real=4.46 3-PARALLEL-BZTreewidth-DP.exe
+time_real=4.59 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+NonisotropicOrthogonalPolarGraph_3_5.gr was solved by 3 solvers
+time_real=0.41 6-tw-exact-parallel
+time_real=0.55 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.58 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+NonisotropicUnitaryPolarGraph_3_3.gr was solved by 2 solvers
+time_real=32.26 3-PARALLEL-BZTreewidth-DP.exe
+time_real=32.37 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+OrthogonalArrayBlockGraph_4_3.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+PaleyGraph_17.gr was solved by 3 solvers
+time_real=0.67 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.71 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.43 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+PappusGraph.gr was solved by 3 solvers
+time_real=0.46 6-tw-exact-parallel
+time_real=0.74 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.92 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+PoussinGraph.gr was solved by 3 solvers
+time_real=0.35 6-tw-exact-parallel
+time_real=0.51 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.55 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_40_10_0.gr was solved by 3 solvers
+time_real=0.40 6-tw-exact-parallel
+time_real=0.64 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.71 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+RKT_20_40_10_1.gr was solved by 3 solvers
+time_real=0.45 6-tw-exact-parallel
+time_real=0.84 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.84 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_50_10_0.gr was solved by 3 solvers
+time_real=0.36 6-tw-exact-parallel
+time_real=0.52 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.65 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_50_10_1.gr was solved by 3 solvers
+time_real=0.78 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.88 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.58 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_60_10_0.gr was solved by 3 solvers
+time_real=0.24 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.33 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.46 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+RKT_20_60_10_1.gr was solved by 3 solvers
+time_real=0.62 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.66 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.72 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_70_10_0.gr was solved by 3 solvers
+time_real=0.19 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.24 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+RKT_20_70_10_1.gr was solved by 3 solvers
+time_real=0.35 6-tw-exact-parallel
+time_real=0.58 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.59 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_80_10_0.gr was solved by 3 solvers
+time_real=0.19 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.20 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.23 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RKT_20_80_10_1.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RandomBarabasiAlbert_100_2.gr was solved by 1 solvers
+time_real=30.29 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RandomBipartite_10_50_3.gr was solved by 3 solvers
+time_real=0.27 6-tw-exact-parallel
+time_real=0.82 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.87 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+RandomBipartite_25_50_1.gr was solved by 1 solvers
+time_real=7.72 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RandomBoundedToleranceGraph_60.gr was solved by 1 solvers
+time_real=0.69 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RandomBoundedToleranceGraph_80.gr was solved by 1 solvers
+time_real=0.93 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+RandomGNM_100_100.gr was solved by 3 solvers
+time_real=1.27 6-tw-exact-parallel
+time_real=1.98 3-PARALLEL-BZTreewidth-DP.exe
+time_real=2.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+SchlaefliGraph.gr was solved by 2 solvers
+time_real=1.89 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.92 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+ShrikhandeGraph.gr was solved by 3 solvers
+time_real=0.59 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.60 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.84 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+SierpinskiGasketGraph_3.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+SquaredSkewHadamardMatrixGraph_2.gr was solved by 2 solvers
+time_real=8.52 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=9.10 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+StarGraph_100.gr was solved by 3 solvers
+time_real=0.07 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.27 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+TaylorTwographDescendantSRG_3.gr was solved by 2 solvers
+time_real=1.79 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.81 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+TaylorTwographSRG_3.gr was solved by 2 solvers
+time_real=1.86 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=2.06 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+Toroidal6RegularGrid2dGraph_4_6.gr was solved by 3 solvers
+time_real=1.36 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.53 3-PARALLEL-BZTreewidth-DP.exe
+time_real=3.34 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+WheelGraph_100.gr was solved by 3 solvers
+time_real=0.21 6-tw-exact-parallel
+time_real=0.38 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.42 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+WorldMap.gr was solved by 3 solvers
+time_real=1.54 6-tw-exact-parallel
+time_real=1.56 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.77 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_calc_input_to_operand1.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_collect_enqueue_dummy_packet.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_collect_received_announcement.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_collect_send_ack.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_collect_send_next_packet.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_collect_send_queued_packet.gr was solved by 3 solvers
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_contikimac_input_packet.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_contikimac_powercycle.gr was solved by 3 solvers
+time_real=0.31 6-tw-exact-parallel
+time_real=0.82 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.98 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_ctk_ctk_menu_add.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.15 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_cxmac_input_packet.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_dhcpc_dhcpc_init.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_dhcpc_dhcpc_request.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_dhcpc_handle_dhcp.gr was solved by 1 solvers
+time_real=1.98 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_httpd-cfs_send_file.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.20 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_httpd-cfs_send_headers.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_ifft_ifft.gr was solved by 3 solvers
+time_real=0.21 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.21 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.24 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_ircc_handle_connection.gr was solved by 3 solvers
+time_real=0.29 6-tw-exact-parallel
+time_real=1.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=1.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_ircc_list_channel.gr was solved by 3 solvers
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.20 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_lpp_dutycycle.gr was solved by 3 solvers
+time_real=0.29 6-tw-exact-parallel
+time_real=0.58 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.65 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_lpp_init.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.08 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_lpp_send_packet.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_lpp_send_probe.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_nullrdc_packet_input.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_polite-announcement_send_timer.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_powertrace_add_stats.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_powertrace_powertrace_print.gr was solved by 3 solvers
+time_real=0.21 6-tw-exact-parallel
+time_real=2.22 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=2.52 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+contiki_process_exit_process.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_profile_profile_episode_start.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_psock_psock_generator_send.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_psock_psock_readto.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.15 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_ringbuf_ringbuf_put.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_route-discovery_route_discovery_discover.gr was solved by 3 solvers
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_rudolph1_rudolph1_open.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_rudolph1_write_data.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_serial-line_process_thread_serial_line_process.gr was solved by 3 solvers
+time_real=0.16 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.25 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-base64_base64_add_char.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-collect-view_process_thread_collect_view_data_process.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-netperf_memcpy_misaligned.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_shell-ps_process_thread_shell_ps_process.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-rime-debug_recv_broadcast.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.21 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-rime-ping_recv_mesh.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_shell-rime_process_thread_shell_send_process.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.22 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-rime_recv_collect.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-sendtest_read_chunk.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell-text_process_thread_shell_echo_process.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_shell_process_thread_shell_server_process.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_shell_shell_register_command.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_tcpip_eventhandler.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_uip-neighbor_uip_neighbor_add.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+contiki_uip-neighbor_uip_neighbor_periodic.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_uip-over-mesh_recv_data.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_uip_uip_connect.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_uip_uip_init.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_uip_uip_unlisten.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_webclient_senddata.gr was solved by 3 solvers
+time_real=0.17 6-tw-exact-parallel
+time_real=0.20 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+contiki_webclient_webclient_appcall.gr was solved by 3 solvers
+time_real=0.17 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+time_real=0.18 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_anna.gr was solved by 3 solvers
+time_real=0.32 6-tw-exact-parallel
+time_real=0.60 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.63 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+dimacs_fpsol2.i.1.gr was solved by 1 solvers
+time_real=75.28 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_fpsol2.i.3-pp.gr was solved by 1 solvers
+time_real=38.01 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_fpsol2.i.3.gr was solved by 1 solvers
+time_real=30.97 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_inithx.i.2-pp.gr was solved by 1 solvers
+time_real=3.22 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_inithx.i.2.gr was solved by 1 solvers
+time_real=4.28 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_inithx.i.3-pp.gr was solved by 1 solvers
+time_real=16.53 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_jean.gr was solved by 3 solvers
+time_real=0.29 6-tw-exact-parallel
+time_real=0.35 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.35 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_miles1000.gr was solved by 1 solvers
+time_real=55.88 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_miles250.gr was solved by 2 solvers
+time_real=0.27 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.28 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_miles750.gr was solved by 1 solvers
+time_real=29.44 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_mulsol.i.1.gr was solved by 1 solvers
+time_real=7.52 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_mulsol.i.2.gr was solved by 1 solvers
+time_real=0.69 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_mulsol.i.3.gr was solved by 1 solvers
+time_real=0.67 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_mulsol.i.4-pp.gr was solved by 1 solvers
+time_real=0.57 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_mulsol.i.5-pp.gr was solved by 1 solvers
+time_real=0.49 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_mulsol.i.5.gr was solved by 1 solvers
+time_real=0.76 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_myciel5.gr was solved by 1 solvers
+time_real=97.71 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_queen5_5.gr was solved by 3 solvers
+time_real=0.64 6-tw-exact-parallel
+time_real=0.71 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.79 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 3, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_queen6_6.gr was solved by 3 solvers
+time_real=1.94 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=2.06 3-PARALLEL-BZTreewidth-DP.exe
+time_real=91.59 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_queen7_7.gr was solved by 2 solvers
+time_real=6.47 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=7.25 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_zeroin.i.2.gr was solved by 1 solvers
+time_real=1.13 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+dimacs_zeroin.i.3-pp.gr was solved by 3 solvers
+time_real=1.93 6-tw-exact-parallel
+time_real=66.71 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=66.79 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+dimacs_zeroin.i.3.gr was solved by 1 solvers
+time_real=2.22 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_abort_abort.gr was solved by 3 solvers
+time_real=0.07 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.09 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_bankfixe_pagemap_alloc.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_clock_gettime_clock_gettime.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_clock_gettime_div10quickm.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_clock_settime_clock_settime.gr was solved by 3 solvers
+time_real=0.08 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_devf_fd_transfer.gr was solved by 3 solvers
+time_real=0.17 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 6-tw-exact-parallel
+time_real=0.22 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+fuzix_devio_bfind.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_devio_kprintf.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_difftime_difftime.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_fgets_fgets.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_filesys_filename.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.10 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_filesys_getinode.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_filesys_i_open.gr was solved by 3 solvers
+time_real=0.18 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.20 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_filesys_newfstab.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_filesys_srch_mt.gr was solved by 3 solvers
+time_real=0.09 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_gethostname_gethostname.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_getpass__gets.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_inode_rwsetup.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_malloc___insert_chunk.gr was solved by 3 solvers
+time_real=0.15 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.17 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_nanosleep_clock_nanosleep.gr was solved by 3 solvers
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_process_getproc.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_qsort__lqsort.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.20 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_ran_rand.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_readdir_readdir.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_regexp_regcomp.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.15 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_se_ycomp.gr was solved by 3 solvers
+time_real=0.16 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.16 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.24 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_setbuffer_setbuffer.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_setenv_setenv.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.16 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.20 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_stat_statfix.gr was solved by 3 solvers
+time_real=0.13 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.20 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 2, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_syscall_fs2__fchdir.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_syscall_fs2_chown_op.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.15 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_syscall_proc__time.gr was solved by 3 solvers
+time_real=0.11 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.12 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.17 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_sysconf_sysconf.gr was solved by 3 solvers
+time_real=0.17 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.18 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+fuzix_tty_tty_read.gr was solved by 3 solvers
+time_real=0.19 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.19 6-tw-exact-parallel
+time_real=0.22 3-PARALLEL-BZTreewidth-DP-LS.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_usermem_ugets.gr was solved by 3 solvers
+time_real=0.14 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.14 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.14 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+fuzix_vfscanf_vfscanf.gr was solved by 3 solvers
+time_real=1.17 6-tw-exact-parallel
+time_real=21.29 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=21.50 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+stdlib_gmtime.gr was solved by 3 solvers
+time_real=0.17 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.18 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.21 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+stdlib_mktime.gr was solved by 3 solvers
+time_real=0.12 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.13 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 3, '3-PARALLEL-BZTreewidth-DP.exe': 2}
+
+stdlib_print_format.gr was solved by 3 solvers
+time_real=0.27 6-tw-exact-parallel
+time_real=1.26 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=1.36 3-PARALLEL-BZTreewidth-DP.exe
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 2, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 3}
+
+stdlib_sincoshf.gr was solved by 3 solvers
+time_real=0.18 3-PARALLEL-BZTreewidth-DP-LS.exe
+time_real=0.18 3-PARALLEL-BZTreewidth-DP.exe
+time_real=0.18 6-tw-exact-parallel
+{'3-PARALLEL-BZTreewidth-DP-LS.exe': 1, '6-tw-exact-parallel': 1, '3-PARALLEL-BZTreewidth-DP.exe': 1}
+
+== Statistics per solver ==
+Total number of solved instances: 197
+186 solved by 6-tw-exact-parallel
+173 solved by 3-PARALLEL-BZTreewidth-DP-LS.exe
+173 solved by 3-PARALLEL-BZTreewidth-DP.exe
+
+== Pairwise comparisons ==
+(Only count an instance if solver1 and solver2 have a distinct rank)
+
+3-PARALLEL-BZTreewidth-DP-LS.exe
+better than 3-PARALLEL-BZTreewidth-DP.exe on 50.000000% of instances (path=0)
+better than 6-tw-exact-parallel on 62.694301% of instances (path=121)
+
+3-PARALLEL-BZTreewidth-DP.exe
+better than 3-PARALLEL-BZTreewidth-DP-LS.exe on 50.000000% of instances (path=0)
+better than 6-tw-exact-parallel on 62.176166% of instances (path=120)
+
+6-tw-exact-parallel
+better than 3-PARALLEL-BZTreewidth-DP-LS.exe on 37.305699% of instances (path=0)
+better than 3-PARALLEL-BZTreewidth-DP.exe on 37.823834% of instances (path=0)
+
+== Final ranking (using Schulze method) ==
+## Warning! Breaking ties between ['3-PARALLEL-BZTreewidth-DP-LS.exe', '3-PARALLEL-BZTreewidth-DP.exe']
+3-PARALLEL-BZTreewidth-DP-LS.exe
+3-PARALLEL-BZTreewidth-DP.exe
+6-tw-exact-parallel

@@ -1,0 +1,31 @@
+#!/bin/bash
+set -euo pipefail
+IFS=$'\n\t'
+
+if [ ! -d $1 ]
+then
+  echo "$0 Error! Directory not found: $1"
+fi
+
+echo
+echo "***************************************************** Making $1...."
+cd $1
+if [ -d .git ]
+then
+  echo -n "Public git repository: "
+  git config --get remote.origin.url
+  echo -n "Commit: "
+  git rev-parse HEAD
+  echo
+else
+  echo "Unknown origin and version since no git repository is present"
+  echo
+fi
+if [ -f CMakeLists.txt ]
+then
+  mkdir -p build
+  cd build
+  cmake ..
+fi
+JOBS=$(grep -c ^processor /proc/cpuinfo || true)
+make -j$JOBS

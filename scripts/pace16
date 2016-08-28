@@ -1,0 +1,78 @@
+#!/usr/bin/env python3
+
+'''
+Output all commands that need to be run in a given subtrack (ex/he se/pa)
+Copyright 2016, Holger Dell
+Licensed under GPLv3.
+'''
+
+import os
+import yaml
+import argparse
+import subprocess
+import glob
+import time
+import datetime
+
+def get_executables(submissions, mode, se_or_pa):
+    execs=list()
+    for s in submissions:
+        for c in submissions[s]['configurations']:
+            if c['mode'] == mode and c['se_or_pa'] == se_or_pa:
+                execs.append(os.path.join(str(s) + '.git/', c['executable']))
+    return execs
+
+def get_instances(path):
+    instances=glob.glob(os.path.join(path,'**','*.gr'), recursive=True)
+    instances+=glob.glob(os.path.join(path,'**','*.gr.xz'), recursive=True)
+    instances+=glob.glob(os.path.join(path,'**','*.gr.lmza'), recursive=True)
+    instances+=glob.glob(os.path.join(path,'**','*.gr.bz2'), recursive=True)
+    return instances
+
+def main():
+    path=os.path.dirname(os.path.realpath(__file__))
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("submissions", help=".yaml file containing submission data")
+    parser.add_argument("instances", help="directory containing instances",
+            nargs='?')
+    parser.add_argument("mode", help="mode ('ex' or 'he')", default="ex", nargs='?')
+    parser.add_argument("se_or_pa", help="'se' or 'pa'", default="se", nargs='?')
+    parser.add_argument("--logdir","-L", help="logdir prefix", nargs='?')
+    args = parser.parse_args()
+
+    if args.logdir == None:
+        _ts = time.time()
+        _now = datetime.datetime.fromtimestamp(_ts).strftime('%Y-%m-%d.%H-%M-%S')
+        logprefix = os.path.join('logs',_now)
+    else:
+        logprefix = args.logdir
+
+    assert(args.mode in ['ex','he'])
+    assert(args.se_or_pa in ['se','pa'])
+    with open(args.submissions,'r') as f:
+        submissions=yaml.load(f)
+        execs=get_executables(submissions, args.mode, args.se_or_pa)
+        if args.instances == None:
+            for e in execs: print(e)
+        else:
+            instances=get_instances(args.instances)
+            for s in submissions:
+                for c in submissions[s]['configurations']:
+                    if c['mode'] == args.mode and c['se_or_pa'] == args.se_or_pa:
+                        e = os.path.join(str(s) + '.git/', c['executable'])
+                        for i in instances:
+                            last_dir_name=os.path.basename(os.path.dirname(i))
+                            if last_dir_name == 'unsolved' and args.mode == 'ex':
+                                continue;
+                            if args.mode == 'ex' and args.mode == 'se':
+                                timeout = last_dir_name
+                            else:
+                                timeout = '100'
+                            logdir=os.path.join(logprefix,str(s),os.path.basename(e))
+                            print('scripts/eval_recursive -L {:s} -j 1 -p {:s} -t {:s} {:s}'.format(logdir,os.path.realpath(e),timeout,os.path.realpath(i)))
+
+
+
+if __name__ == '__main__':
+    main()

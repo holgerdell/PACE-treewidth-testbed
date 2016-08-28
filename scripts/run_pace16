@@ -1,0 +1,64 @@
+#!/bin/bash
+#
+# Usage:
+# ./run_pace16
+# will run the entire pace16 competition
+#
+set -euo pipefail
+IFS=$'\n\t'
+
+TOPDIR=$PWD
+_now=$(date +%Y-%m-%d.%H-%M-%S)
+
+tmpdir=$(mktemp --directory --tmpdir=/dev/shm $(basename $0)-XXXXXXXX)
+trap "rm -rf $tmpdir" EXIT
+
+LOGDIR=$TOPDIR/logs/"$_now"
+
+print_tasks()
+{
+  se_or_pa=$1
+  for mode in ex he; do
+    comp="$mode"-"$se_or_pa"
+    mkdir -p $LOGDIR/$comp
+    ./scripts/pace16 --logdir "$LOGDIR/$comp" "pace2016-submissions.yaml" "./instances/pace16" $mode $se_or_pa
+  done
+}
+
+print_tasks se > $tmpdir/tasks_se
+num=`wc -l < $tmpdir/tasks_se`
+JOBS=$(grep -c ^processor /proc/cpuinfo || true)
+echo "Will run:"
+echo "- ex/he sequential: $num tasks; using $JOBS jobs"
+
+print_tasks pa > $tmpdir/tasks_pa
+num=`wc -l < $tmpdir/tasks_pa`
+echo "- ex/he parallel: $num tasks; using one job at a time"
+
+echo "*********************************************** ex/he sequential"
+< $tmpdir/tasks_se xargs --delimiter='\n' -n1 -P$JOBS sh -c
+
+echo "*********************************************** ex/he parallel"
+< $tmpdir/tasks_pa xargs --delimiter='\n' -n1 sh -c
+
+echo
+echo "*********************************************** collecting results"
+echo "Results written to $LOGDIR"
+
+csvout="$LOGDIR/all-results.csv"
+echo "Collecting all csv data in $csvout"
+scripts/log-to-csv.sh $LOGDIR > $csvout
+
+echo "Comparing performance and ranks..."
+for mode in ex he; do
+  for se_or_pa in se pa; do
+    rankfile=$LOGDIR/ranks-$mode-$se_or_pa.txt
+    ./scripts/compute_rank $csvout $mode $se_or_pa > $rankfile
+    echo "$mode $se_or_pa ranks written to $rankfile"
+  done
+done
+
+tarball="$TOPDIR/logs/$(basename $LOGDIR).tar.bz2"
+echo "Creating results archive at $tarball"
+tar jcf "$tarball" -C "$(dirname $LOGDIR)" "$(basename $LOGDIR)"
+

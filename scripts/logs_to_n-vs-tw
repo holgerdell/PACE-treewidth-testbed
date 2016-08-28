@@ -1,0 +1,64 @@
+#!/usr/bin/env python3.5
+
+'''
+Input: dir with .log files
+Output: .csv with instance name; number of vertices; treewidth
+Copyright 2016, Holger Dell
+Licensed under GPLv3.
+'''
+
+import os
+import sys
+import argparse
+from multiprocessing import Pool
+import glob
+import subprocess
+import time
+import datetime
+
+def get_n(grfile):
+    n=None
+    with open(grfile, 'r') as f:
+        for line in f:
+            line = line.rstrip()
+            if line.startswith("p tw "):
+                return int(line.split()[2])
+    assert(false)
+
+
+def get_n_and_tw(logfile):
+    n=None
+    bagsize=None
+    with open(logfile, 'r') as f:
+        for line in f:
+            line = line.rstrip()
+            if n==None:
+                if line.startswith("input graph: "):
+                    n=get_n(line[len("input graph: "):])
+            if bagsize==None:
+                if line.startswith("decomposition bag size: "):
+                    bagsize=int(line[len("decomposition bag size: "):])
+
+    assert(n!=None and bagsize!=None)
+    return (n,bagsize)
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("path", help=".log file or directory of .log files")
+    args = parser.parse_args()
+
+    if os.path.isdir(args.path):
+        logfiles=glob.glob(os.path.join(args.path,'**','*.log'), recursive=True)
+    else:
+        logfiles=[args.path]
+
+    print("instance;num_vertices;treewidth")
+
+    for logfile in logfiles:
+        (n, bagsize)=get_n_and_tw( logfile )
+        print("{:s}; {:d}; {:d}".format(os.path.basename(logfile), n, bagsize-1))
+
+
+if __name__ == '__main__':
+    main()
+

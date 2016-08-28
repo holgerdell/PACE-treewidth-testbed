@@ -1,0 +1,106 @@
+#!/usr/bin/env python3.5
+
+'''
+Run a solver on a set of instances
+Copyright 2016, Holger Dell
+Licensed under GPLv3.
+'''
+
+import os
+import sys
+import argparse
+from multiprocessing import Pool
+import glob
+import subprocess
+import time
+import datetime
+import errno
+#from subprocess import Popen, STDOUT
+#
+#DEVNULL = open(os.devnull, 'wb', 0)
+
+def run(pr_in_to):
+    global tweval
+    global tdvalidate
+    global logdir
+    (program, instance, timeout) = pr_in_to
+    basename=os.path.basename(instance)
+    if basename.endswith('.gr.lmza'):
+        stem=basename[:-8]
+    elif basename.endswith('.gr.bz2'):
+        stem=basename[:-7]
+    elif basename.endswith('.gr.xz'):
+        stem=basename[:-6]
+    elif basename.endswith('.gr'):
+        stem=basename[:-3]
+    logfile=os.path.join(logdir,stem+".log")
+    print("running {:s} for {:s} on {:s}\n"
+          "logfile: {:s}\n".format(os.path.basename(program), timeout, basename, logfile))
+    with open(logfile, 'w') as f:
+#        start = time.time()
+#        p = Popen([tweval, instance, timeout, program],
+#                stdout=f,
+#                stderr=f,
+#                env={"td_outdir":logdir,
+#                     "TDVALIDATE":tdvalidate})
+#        ru = os.wait4(p.pid, 0)[2]
+#        elapsed = time.time() - start
+#        print("{:s} ran for {:.3f}real {:.3f}user {:.3f}system".format(stem,
+#               elapsed, ru.ru_utime, ru.ru_stime))
+
+        ret = subprocess.call([tweval, instance, timeout, program],
+                stdout=f,
+                stderr=f,
+                env={"td_outdir":logdir,
+                     "TDVALIDATE":tdvalidate})
+
+def main():
+    global tweval
+    pwd=os.path.dirname(os.path.realpath(__file__))
+    tweval=os.path.join(pwd, 'tw-eval.sh')
+
+    global tdvalidate
+    tdvalidate=os.path.join(pwd, '..', 'td-validate.git', 'td-validate')
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--program", help="use this program to compute tree decomposition")
+    parser.add_argument("-t", "--timeout", help="use this timeout")
+    parser.add_argument("-L", "--logdir", help="write logfiles to this directory")
+    parser.add_argument("-j", "--jobs", help="use this many jobs (default: number of cores)")
+    parser.add_argument("path", help=".gr file or directory of .gr files")
+    args = parser.parse_args()
+
+    global logdir
+    ts = time.time()
+    logdir = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d.%H-%M-%S')
+    if args.logdir:
+        logdir=args.logdir
+    logdir=os.path.abspath(logdir)
+    os.makedirs(logdir,exist_ok=True)
+
+    if os.path.isdir(args.path):
+        instances=glob.glob(os.path.join(args.path,'**','*.gr'), recursive=True)
+        instances+=glob.glob(os.path.join(args.path,'**','*.gr.xz'), recursive=True)
+        instances+=glob.glob(os.path.join(args.path,'**','*.gr.lmza'), recursive=True)
+        instances+=glob.glob(os.path.join(args.path,'**','*.gr.bz2'), recursive=True)
+    else:
+        instances=[args.path]
+    programs=[args.program]
+    pr_in_tos=list()
+
+    for pr in programs:
+        for i in instances:
+            pr_in_tos.append( (pr, i, args.timeout) )
+
+    jobs = int(args.jobs)
+    if jobs == 1:
+        for t in pr_in_tos:
+            run(t)
+    else:
+        with Pool(processes=int(args.jobs)) as p:
+            p.map(run, pr_in_tos, chunksize=1)
+
+
+if __name__ == '__main__':
+    main()
+

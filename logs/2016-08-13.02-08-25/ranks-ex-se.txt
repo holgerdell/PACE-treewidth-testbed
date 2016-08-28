@@ -1,0 +1,3099 @@
+== Participating Solvers: 13 ==
+0-tw-exact
+3-BZTreewidth-DFS-LS.exe
+3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+3-BZTreewidth-DFS-SV-ASV-MMW.exe
+3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+3-BZTreewidth-DFS-SV-MMW.exe
+3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+3-BZTreewidth-DFS-SV.exe
+3-BZTreewidth-DFS.exe
+3-BZTreewidth-DP-LS.exe
+3-BZTreewidth-DP.exe
+6-tw-exact
+7-tw-exact
+
+
+== Statistics per instance ==
+4x12_torusGrid.gr was solved by 2 solvers
+time_user=7.61 7-tw-exact
+time_user=172.27 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 2, '6-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+8x6_torusGrid.gr was solved by 1 solvers
+time_user=2607.41 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+AhrensSzekeresGeneralizedQuadrangleGraph_3.gr was solved by 12 solvers
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.18 7-tw-exact
+time_user=0.26 3-BZTreewidth-DP.exe
+time_user=0.28 3-BZTreewidth-DP-LS.exe
+time_user=0.42 3-BZTreewidth-DFS.exe
+time_user=0.45 3-BZTreewidth-DFS-LS.exe
+time_user=0.48 3-BZTreewidth-DFS-SV.exe
+time_user=76.11 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 4, '0-tw-exact': 8, '3-BZTreewidth-DFS-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 1, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 1}
+
+BalancedTree_3,5.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.38 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+BlanusaSecondSnarkGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.03 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DP.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.49 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 5, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 7, '3-BZTreewidth-DP.exe': 4, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+BrinkmannGraph.gr was solved by 13 solvers
+time_user=0.08 7-tw-exact
+time_user=0.25 0-tw-exact
+time_user=0.44 3-BZTreewidth-DP.exe
+time_user=0.47 3-BZTreewidth-DP-LS.exe
+time_user=0.66 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.67 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.68 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.70 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.91 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=1.39 3-BZTreewidth-DFS.exe
+time_user=1.47 3-BZTreewidth-DFS-SV.exe
+time_user=1.51 3-BZTreewidth-DFS-LS.exe
+time_user=12.06 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 10, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 12, '0-tw-exact': 2, '6-tw-exact': 13, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 9, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 11, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+ChvatalGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.06 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.40 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+ClebschGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.08 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=1.30 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+CycleGraph_100.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.13 3-BZTreewidth-DP.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.18 3-BZTreewidth-DFS-LS.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.18 3-BZTreewidth-DFS.exe
+time_user=0.18 3-BZTreewidth-DP-LS.exe
+time_user=0.21 3-BZTreewidth-DFS-SV.exe
+time_user=0.22 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+DesarguesGraph.gr was solved by 13 solvers
+time_user=0.06 0-tw-exact
+time_user=0.06 7-tw-exact
+time_user=0.71 3-BZTreewidth-DP-LS.exe
+time_user=0.72 3-BZTreewidth-DP.exe
+time_user=1.31 6-tw-exact
+time_user=3.02 3-BZTreewidth-DFS-LS.exe
+time_user=3.18 3-BZTreewidth-DFS-SV.exe
+time_user=3.20 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=3.20 3-BZTreewidth-DFS.exe
+time_user=3.28 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=3.30 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=3.32 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=4.23 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'6-tw-exact': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 8, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 10, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 11, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 9, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+DodecahedralGraph.gr was solved by 13 solvers
+time_user=0.06 7-tw-exact
+time_user=0.14 0-tw-exact
+time_user=0.93 3-BZTreewidth-DP.exe
+time_user=1.00 3-BZTreewidth-DP-LS.exe
+time_user=1.23 6-tw-exact
+time_user=3.06 3-BZTreewidth-DFS-LS.exe
+time_user=3.09 3-BZTreewidth-DFS.exe
+time_user=3.42 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=3.42 3-BZTreewidth-DFS-SV.exe
+time_user=3.99 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=4.01 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=4.74 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=5.38 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'6-tw-exact': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 10, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 9, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 2, '3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 12, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 8, '3-BZTreewidth-DFS-SV-MMW.exe': 11, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 8}
+
+DorogovtsevGoltsevMendesGraph.gr was solved by 13 solvers
+time_user=0.04 0-tw-exact
+time_user=0.60 7-tw-exact
+time_user=3.04 6-tw-exact
+time_user=6.23 3-BZTreewidth-DP.exe
+time_user=10.19 3-BZTreewidth-DP-LS.exe
+time_user=10.74 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=10.77 3-BZTreewidth-DFS-SV.exe
+time_user=10.86 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=10.86 3-BZTreewidth-DFS.exe
+time_user=10.95 3-BZTreewidth-DFS-LS.exe
+time_user=11.14 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=11.21 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=11.87 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 10, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 8, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 9, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 12, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 11}
+
+DoubleStarSnark.gr was solved by 12 solvers
+time_user=0.09 7-tw-exact
+time_user=0.71 0-tw-exact
+time_user=36.15 3-BZTreewidth-DP.exe
+time_user=40.33 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=42.82 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=42.89 3-BZTreewidth-DP-LS.exe
+time_user=43.15 3-BZTreewidth-DFS.exe
+time_user=47.99 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=48.00 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=48.42 3-BZTreewidth-DFS-LS.exe
+time_user=49.46 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=50.08 3-BZTreewidth-DFS-SV.exe
+{'3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 8, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 10, '0-tw-exact': 2, '6-tw-exact': 13, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 12, '3-BZTreewidth-DFS-SV-MMW.exe': 9, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 11}
+
+DyckGraph.gr was solved by 2 solvers
+time_user=0.29 7-tw-exact
+time_user=7.24 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 2, '6-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+ErreraGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.81 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+FibonacciTree_10.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.22 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+FlowerSnark.gr was solved by 13 solvers
+time_user=0.06 7-tw-exact
+time_user=0.07 0-tw-exact
+time_user=0.68 3-BZTreewidth-DP.exe
+time_user=0.72 3-BZTreewidth-DP-LS.exe
+time_user=1.17 6-tw-exact
+time_user=2.74 3-BZTreewidth-DFS-LS.exe
+time_user=2.77 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=2.77 3-BZTreewidth-DFS.exe
+time_user=2.87 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=2.93 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=3.00 3-BZTreewidth-DFS-SV.exe
+time_user=3.06 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=4.01 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'6-tw-exact': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 9, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 11, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 2, '3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 12, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 10, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+FolkmanGraph.gr was solved by 13 solvers
+time_user=0.01 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.15 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 3-BZTreewidth-DP.exe
+time_user=0.19 3-BZTreewidth-DFS-LS.exe
+time_user=0.19 3-BZTreewidth-DP-LS.exe
+time_user=0.20 3-BZTreewidth-DFS.exe
+time_user=1.38 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 10, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 9, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 9, '3-BZTreewidth-DP.exe': 8, '6-tw-exact': 11, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+FriendshipGraph_10.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-LS.exe
+time_user=0.06 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+GNP_20_10_0.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.03 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.29 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+GNP_20_10_1.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.01 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+GNP_20_20_0.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.51 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+GNP_20_20_1.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.64 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+GNP_20_30_0.gr was solved by 13 solvers
+time_user=0.02 0-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 7-tw-exact
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=1.64 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+GNP_20_30_1.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.95 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+GNP_20_40_0.gr was solved by 13 solvers
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.10 7-tw-exact
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 3-BZTreewidth-DFS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.38 0-tw-exact
+time_user=1.04 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 7, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+GNP_20_40_1.gr was solved by 13 solvers
+time_user=0.03 0-tw-exact
+time_user=0.08 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS.exe
+time_user=0.14 3-BZTreewidth-DFS-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=2.78 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 7, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+GNP_20_50_0.gr was solved by 13 solvers
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 7-tw-exact
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 0-tw-exact
+time_user=0.87 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 5, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+GNP_20_50_1.gr was solved by 13 solvers
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.11 7-tw-exact
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.19 0-tw-exact
+time_user=0.93 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 6, '3-BZTreewidth-DFS-LS.exe': 5, '3-BZTreewidth-DP.exe': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+GeneralizedPetersenGraph_10_4.gr was solved by 13 solvers
+time_user=0.05 7-tw-exact
+time_user=0.07 0-tw-exact
+time_user=0.76 3-BZTreewidth-DP.exe
+time_user=0.79 3-BZTreewidth-DP-LS.exe
+time_user=1.24 6-tw-exact
+time_user=2.76 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=2.80 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=3.11 3-BZTreewidth-DFS-LS.exe
+time_user=3.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=3.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=3.22 3-BZTreewidth-DFS.exe
+time_user=3.28 3-BZTreewidth-DFS-SV.exe
+time_user=3.70 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'6-tw-exact': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 8, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 8, '0-tw-exact': 2, '3-BZTreewidth-DFS.exe': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 11, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 10, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 8}
+
+GoethalsSeidelGraph_2_3.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 7-tw-exact
+time_user=1.06 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+GoldnerHararyGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+GrayGraph.gr was solved by 1 solvers
+time_user=35.80 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+GrotzschGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.31 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+HararyGraph_6_15.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.36 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+HarborthGraph.gr was solved by 12 solvers
+time_user=0.05 7-tw-exact
+time_user=0.59 0-tw-exact
+time_user=6.61 6-tw-exact
+time_user=33.71 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=36.97 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=40.03 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=41.24 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=44.25 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=55.43 3-BZTreewidth-DFS-SV.exe
+time_user=57.21 3-BZTreewidth-DFS.exe
+time_user=60.01 3-BZTreewidth-DFS-LS.exe
+time_user=129.29 3-BZTreewidth-DP.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 8, '3-BZTreewidth-DP-LS.exe': 13, '3-BZTreewidth-DP.exe': 12, '3-BZTreewidth-DFS-LS.exe': 11, '0-tw-exact': 2, '3-BZTreewidth-DFS.exe': 10, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 9, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+HeawoodGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.05 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.44 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+HoffmanGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.70 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+HyperStarGraph_10_2.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 7-tw-exact
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.15 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+IcosahedralGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP-LS.exe
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.39 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+KittellGraph.gr was solved by 13 solvers
+time_user=0.07 7-tw-exact
+time_user=0.21 0-tw-exact
+time_user=0.32 3-BZTreewidth-DFS-SV.exe
+time_user=0.32 3-BZTreewidth-DFS.exe
+time_user=0.34 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.35 3-BZTreewidth-DFS-LS.exe
+time_user=0.37 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.39 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.39 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.43 3-BZTreewidth-DP.exe
+time_user=0.48 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.57 3-BZTreewidth-DP-LS.exe
+time_user=4.71 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DP-LS.exe': 10, '0-tw-exact': 2, '3-BZTreewidth-DFS-LS.exe': 5, '3-BZTreewidth-DP.exe': 8, '6-tw-exact': 11, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 9, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+KneserGraph_10_2.gr was solved by 11 solvers
+time_user=0.43 7-tw-exact
+time_user=4.92 3-BZTreewidth-DP.exe
+time_user=6.26 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=6.28 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=6.33 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=6.61 3-BZTreewidth-DP-LS.exe
+time_user=6.76 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=6.91 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=7.50 3-BZTreewidth-DFS-SV.exe
+time_user=7.83 3-BZTreewidth-DFS-LS.exe
+time_user=8.16 3-BZTreewidth-DFS.exe
+{'3-BZTreewidth-DFS.exe': 11, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 7, '0-tw-exact': 12, '3-BZTreewidth-DFS-LS.exe': 10, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 12, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 8, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DFS-SV.exe': 9, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+LadderGraph_20.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+MarkstroemGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.03 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.26 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+McGeeGraph.gr was solved by 12 solvers
+time_user=0.09 7-tw-exact
+time_user=1.40 0-tw-exact
+time_user=14.89 3-BZTreewidth-DP.exe
+time_user=16.96 3-BZTreewidth-DP-LS.exe
+time_user=60.20 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=62.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=63.93 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=64.92 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=68.74 3-BZTreewidth-DFS-LS.exe
+time_user=69.24 3-BZTreewidth-DFS.exe
+time_user=70.96 3-BZTreewidth-DFS-SV.exe
+time_user=75.46 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'3-BZTreewidth-DFS.exe': 10, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 8, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 9, '0-tw-exact': 2, '6-tw-exact': 13, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 12, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 11, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+MeredithGraph.gr was solved by 1 solvers
+time_user=1.96 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+NauruGraph.gr was solved by 13 solvers
+time_user=0.06 7-tw-exact
+time_user=0.14 0-tw-exact
+time_user=2.40 6-tw-exact
+time_user=8.74 3-BZTreewidth-DP.exe
+time_user=9.58 3-BZTreewidth-DP-LS.exe
+time_user=17.01 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=17.32 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=22.80 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=25.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=32.60 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=41.01 3-BZTreewidth-DFS-LS.exe
+time_user=42.39 3-BZTreewidth-DFS-SV.exe
+time_user=42.41 3-BZTreewidth-DFS.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 10, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 11, '0-tw-exact': 2, '3-BZTreewidth-DFS.exe': 13, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 8, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 12, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 9}
+
+NonisotropicOrthogonalPolarGraph_3_5.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 7-tw-exact
+time_user=0.57 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+NonisotropicUnitaryPolarGraph_3_3.gr was solved by 3 solvers
+time_user=16.04 7-tw-exact
+time_user=94.26 3-BZTreewidth-DP.exe
+time_user=98.55 3-BZTreewidth-DP-LS.exe
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 4, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+OddGraph_4.gr was solved by 1 solvers
+time_user=2.28 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+OrthogonalArrayBlockGraph_4_3.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 7-tw-exact
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.12 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+PaleyGraph_17.gr was solved by 13 solvers
+time_user=0.03 0-tw-exact
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 7-tw-exact
+time_user=1.66 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+PappusGraph.gr was solved by 13 solvers
+time_user=0.03 0-tw-exact
+time_user=0.06 7-tw-exact
+time_user=0.22 3-BZTreewidth-DP-LS.exe
+time_user=0.23 3-BZTreewidth-DP.exe
+time_user=0.74 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.77 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.79 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.80 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.91 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.91 3-BZTreewidth-DFS.exe
+time_user=0.95 3-BZTreewidth-DFS-LS.exe
+time_user=0.96 3-BZTreewidth-DFS-SV.exe
+time_user=0.96 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 9, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 10, '0-tw-exact': 1, '6-tw-exact': 11, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 9, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 11, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+PoussinGraph.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.06 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.65 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+RKT_20_40_10_0.gr was solved by 13 solvers
+time_user=0.02 0-tw-exact
+time_user=0.09 7-tw-exact
+time_user=0.10 3-BZTreewidth-DP.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 3-BZTreewidth-DP-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS.exe
+time_user=0.87 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+RKT_20_40_10_1.gr was solved by 13 solvers
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.09 7-tw-exact
+time_user=0.12 0-tw-exact
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS.exe
+time_user=0.87 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '0-tw-exact': 2, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+RKT_20_50_10_0.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.08 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.58 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+RKT_20_50_10_1.gr was solved by 13 solvers
+time_user=0.02 0-tw-exact
+time_user=0.07 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=2.90 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+RKT_20_60_10_0.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.06 7-tw-exact
+time_user=0.10 3-BZTreewidth-DP.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=1.01 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+RKT_20_60_10_1.gr was solved by 13 solvers
+time_user=0.03 0-tw-exact
+time_user=0.07 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=1.53 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+RKT_20_70_10_0.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.34 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+RKT_20_70_10_1.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.06 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.76 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+RKT_20_80_10_0.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.27 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+RKT_20_80_10_1.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.26 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 7, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+RKT_300_75_30_0.gr was solved by 5 solvers
+time_user=729.46 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=745.34 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=768.03 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=779.00 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=782.28 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 6, '0-tw-exact': 6, '3-BZTreewidth-DFS-LS.exe': 6, '3-BZTreewidth-DP.exe': 6, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 1}
+
+RandomBarabasiAlbert_100_2.gr was solved by 1 solvers
+time_user=3.40 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+RandomBipartite_10_50_3.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.13 7-tw-exact
+time_user=0.35 6-tw-exact
+time_user=0.73 3-BZTreewidth-DP.exe
+time_user=0.81 3-BZTreewidth-DFS-LS.exe
+time_user=0.85 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.85 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.85 3-BZTreewidth-DFS.exe
+time_user=0.85 3-BZTreewidth-DP-LS.exe
+time_user=0.87 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.87 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.88 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.91 3-BZTreewidth-DFS-SV.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DFS-SV.exe': 9, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 8}
+
+RandomBipartite_25_50_1.gr was solved by 3 solvers
+time_user=0.18 7-tw-exact
+time_user=10.85 6-tw-exact
+time_user=429.88 0-tw-exact
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+RandomBipartite_25_50_3.gr was solved by 1 solvers
+time_user=175.35 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+RandomBoundedToleranceGraph_60.gr was solved by 12 solvers
+time_user=0.36 7-tw-exact
+time_user=1.75 6-tw-exact
+time_user=408.43 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=409.15 3-BZTreewidth-DFS-SV.exe
+time_user=411.94 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=412.38 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=413.97 3-BZTreewidth-DFS-LS.exe
+time_user=414.52 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=414.92 3-BZTreewidth-DFS.exe
+time_user=420.27 3-BZTreewidth-DP-LS.exe
+time_user=420.60 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=425.24 3-BZTreewidth-DP.exe
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 8, '3-BZTreewidth-DP-LS.exe': 10, '0-tw-exact': 13, '3-BZTreewidth-DFS-LS.exe': 7, '3-BZTreewidth-DP.exe': 12, '3-BZTreewidth-DFS.exe': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 11}
+
+RandomBoundedToleranceGraph_80.gr was solved by 12 solvers
+time_user=0.64 7-tw-exact
+time_user=2.04 6-tw-exact
+time_user=672.84 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=682.52 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=690.44 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=698.90 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=706.72 3-BZTreewidth-DP.exe
+time_user=714.75 3-BZTreewidth-DFS-SV.exe
+time_user=717.22 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=733.25 3-BZTreewidth-DFS.exe
+time_user=740.87 3-BZTreewidth-DP-LS.exe
+time_user=745.33 3-BZTreewidth-DFS-LS.exe
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DP-LS.exe': 11, '0-tw-exact': 13, '3-BZTreewidth-DFS-LS.exe': 12, '3-BZTreewidth-DP.exe': 7, '3-BZTreewidth-DFS.exe': 10, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 9, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 8, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+RandomGNM_100_100.gr was solved by 13 solvers
+time_user=0.06 7-tw-exact
+time_user=0.10 0-tw-exact
+time_user=2.06 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=2.19 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=2.41 3-BZTreewidth-DP.exe
+time_user=2.44 6-tw-exact
+time_user=2.65 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=2.70 3-BZTreewidth-DP-LS.exe
+time_user=2.93 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=2.94 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=7.11 3-BZTreewidth-DFS-LS.exe
+time_user=7.36 3-BZTreewidth-DFS.exe
+time_user=7.43 3-BZTreewidth-DFS-SV.exe
+{'6-tw-exact': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 9, '3-BZTreewidth-DP-LS.exe': 8, '3-BZTreewidth-DP.exe': 5, '3-BZTreewidth-DFS-LS.exe': 11, '0-tw-exact': 2, '3-BZTreewidth-DFS.exe': 12, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 13, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 10}
+
+RingedTree_6.gr was solved by 1 solvers
+time_user=14.63 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+SchlaefliGraph.gr was solved by 12 solvers
+time_user=0.22 7-tw-exact
+time_user=0.44 3-BZTreewidth-DP.exe
+time_user=0.49 3-BZTreewidth-DP-LS.exe
+time_user=0.56 3-BZTreewidth-DFS-LS.exe
+time_user=0.59 3-BZTreewidth-DFS-SV.exe
+time_user=0.59 3-BZTreewidth-DFS.exe
+time_user=0.65 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.65 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.67 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.68 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.88 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=12.75 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 7, '0-tw-exact': 10, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 11, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 9, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+ShrikhandeGraph.gr was solved by 12 solvers
+time_user=0.02 0-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.08 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+SierpinskiGasketGraph_3.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.08 7-tw-exact
+time_user=0.12 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 1, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+SquaredSkewHadamardMatrixGraph_2.gr was solved by 10 solvers
+time_user=1.58 7-tw-exact
+time_user=13.07 3-BZTreewidth-DP.exe
+time_user=14.80 3-BZTreewidth-DP-LS.exe
+time_user=49.24 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=49.37 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=49.51 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=51.39 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=58.41 3-BZTreewidth-DFS.exe
+time_user=61.09 3-BZTreewidth-DFS-LS.exe
+time_user=64.53 3-BZTreewidth-DFS-SV.exe
+{'3-BZTreewidth-DFS.exe': 8, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 7, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 9, '0-tw-exact': 11, '6-tw-exact': 11, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 11, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 10, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+StarGraph_100.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.18 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+SylvesterGraph.gr was solved by 1 solvers
+time_user=4.34 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+SzekeresSnarkGraph.gr was solved by 1 solvers
+time_user=2.87 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+TaylorTwographDescendantSRG_3.gr was solved by 12 solvers
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.18 7-tw-exact
+time_user=0.25 3-BZTreewidth-DP.exe
+time_user=0.30 3-BZTreewidth-DP-LS.exe
+time_user=0.44 3-BZTreewidth-DFS.exe
+time_user=0.45 3-BZTreewidth-DFS-LS.exe
+time_user=0.49 3-BZTreewidth-DFS-SV.exe
+time_user=69.13 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 1, '3-BZTreewidth-DP-LS.exe': 4, '0-tw-exact': 8, '3-BZTreewidth-DFS-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 1, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 1, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 1}
+
+TaylorTwographSRG_3.gr was solved by 12 solvers
+time_user=0.23 3-BZTreewidth-DP.exe
+time_user=0.23 7-tw-exact
+time_user=0.28 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.28 3-BZTreewidth-DP-LS.exe
+time_user=0.29 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.30 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.31 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.34 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.34 3-BZTreewidth-DFS.exe
+time_user=0.36 3-BZTreewidth-DFS-LS.exe
+time_user=0.38 3-BZTreewidth-DFS-SV.exe
+time_user=61.79 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 2, '0-tw-exact': 9, '3-BZTreewidth-DFS-LS.exe': 7, '3-BZTreewidth-DP.exe': 1, '6-tw-exact': 10, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 8, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+Toroidal6RegularGrid2dGraph_4_6.gr was solved by 12 solvers
+time_user=0.09 7-tw-exact
+time_user=0.39 3-BZTreewidth-DP.exe
+time_user=0.43 3-BZTreewidth-DP-LS.exe
+time_user=1.05 0-tw-exact
+time_user=1.12 3-BZTreewidth-DFS-SV.exe
+time_user=1.53 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=1.77 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=1.90 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=2.43 3-BZTreewidth-DFS.exe
+time_user=2.53 3-BZTreewidth-DFS-LS.exe
+time_user=2.83 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=2.93 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+{'3-BZTreewidth-DFS.exe': 9, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 11, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 7, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 10, '0-tw-exact': 4, '6-tw-exact': 13, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 12}
+
+WheelGraph_100.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.28 6-tw-exact
+time_user=0.34 3-BZTreewidth-DP.exe
+time_user=0.42 3-BZTreewidth-DFS-LS.exe
+time_user=0.43 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.43 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.44 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.45 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.45 3-BZTreewidth-DFS-SV.exe
+time_user=0.45 3-BZTreewidth-DFS.exe
+time_user=0.45 3-BZTreewidth-DP-LS.exe
+time_user=0.47 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=3.12 7-tw-exact
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DP-LS.exe': 7, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 9, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+WorldMap.gr was solved by 13 solvers
+time_user=0.22 7-tw-exact
+time_user=0.27 3-BZTreewidth-DFS-LS.exe
+time_user=0.27 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.27 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.28 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.28 3-BZTreewidth-DFS-SV.exe
+time_user=0.28 3-BZTreewidth-DFS.exe
+time_user=0.29 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.30 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.30 3-BZTreewidth-DP.exe
+time_user=0.35 3-BZTreewidth-DP-LS.exe
+time_user=2.44 6-tw-exact
+time_user=11.77 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 6, '0-tw-exact': 8, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 5, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+contiki_calc_input_to_operand1.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.12 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_collect_enqueue_dummy_packet.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_collect_received_announcement.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_collect_send_ack.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_collect_send_next_packet.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_collect_send_queued_packet.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DP.exe
+time_user=0.12 3-BZTreewidth-DFS-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.18 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+contiki_contikimac_input_packet.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.19 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 7, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+contiki_contikimac_powercycle.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.08 7-tw-exact
+time_user=0.39 3-BZTreewidth-DP.exe
+time_user=0.45 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.46 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.48 3-BZTreewidth-DFS-SV.exe
+time_user=0.48 3-BZTreewidth-DFS.exe
+time_user=0.48 3-BZTreewidth-DP-LS.exe
+time_user=0.51 3-BZTreewidth-DFS-LS.exe
+time_user=0.51 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.51 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.53 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.67 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 7, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 7, '0-tw-exact': 1, '6-tw-exact': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_ctk_ctk_menu_add.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_cxmac_input_packet.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.01 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.19 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_dhcpc_dhcpc_init.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+contiki_dhcpc_dhcpc_request.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_dhcpc_handle_dhcp.gr was solved by 2 solvers
+time_user=0.27 7-tw-exact
+time_user=83.50 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 2, '6-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_httpd-cfs_send_file.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.01 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_httpd-cfs_send_headers.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DP.exe
+time_user=0.12 3-BZTreewidth-DFS-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.21 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DP-LS.exe': 5, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 5, '3-BZTreewidth-DP.exe': 4, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_ifft_ifft.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.13 3-BZTreewidth-DP.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.16 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 3-BZTreewidth-DFS-LS.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS.exe
+time_user=0.18 3-BZTreewidth-DP-LS.exe
+time_user=0.19 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.19 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.23 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+contiki_ircc_handle_connection.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.03 7-tw-exact
+time_user=0.54 6-tw-exact
+time_user=1.02 3-BZTreewidth-DP.exe
+time_user=1.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=1.09 3-BZTreewidth-DFS-LS.exe
+time_user=1.09 3-BZTreewidth-DFS-SV.exe
+time_user=1.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=1.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=1.16 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=1.20 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=1.20 3-BZTreewidth-DFS.exe
+time_user=1.23 3-BZTreewidth-DP-LS.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 11, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 10, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 7, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 9, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 10, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 8}
+
+contiki_ircc_list_channel.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_lpp_dutycycle.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.14 3-BZTreewidth-DFS-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS.exe
+time_user=0.51 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_lpp_init.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_lpp_send_packet.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.11 3-BZTreewidth-DP.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.14 3-BZTreewidth-DP-LS.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.15 3-BZTreewidth-DFS-SV.exe
+time_user=0.16 3-BZTreewidth-DFS.exe
+time_user=0.19 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_lpp_send_probe.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-LS.exe
+time_user=0.17 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_nullrdc_packet_input.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.01 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.12 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_polite-announcement_send_timer.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_powertrace_add_stats.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_powertrace_powertrace_print.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.35 6-tw-exact
+time_user=2.53 3-BZTreewidth-DP.exe
+time_user=3.37 3-BZTreewidth-DP-LS.exe
+time_user=3.44 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=3.47 3-BZTreewidth-DFS-SV.exe
+time_user=3.51 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=3.53 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=3.63 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=3.69 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=3.81 3-BZTreewidth-DFS-LS.exe
+time_user=3.82 3-BZTreewidth-DFS.exe
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 9, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 11, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 12, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 10, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+contiki_process_exit_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+contiki_profile_profile_episode_start.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_psock_psock_generator_send.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_psock_psock_readto.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_ringbuf_ringbuf_put.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.05 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_route-discovery_route_discovery_discover.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_rudolph1_rudolph1_open.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.06 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.06 3-BZTreewidth-DFS.exe
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_rudolph1_write_data.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.12 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_serial-line_process_thread_serial_line_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.10 3-BZTreewidth-DP.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.28 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_shell-base64_base64_add_char.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_shell-collect-view_process_thread_collect_view_data_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_shell-netperf_memcpy_misaligned.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+contiki_shell-ps_process_thread_shell_ps_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_shell-rime-debug_recv_broadcast.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_shell-rime-ping_recv_mesh.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_shell-rime_process_thread_shell_send_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DFS-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.17 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_shell-rime_recv_collect.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+contiki_shell-sendtest_read_chunk.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_shell-text_process_thread_shell_echo_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_shell_process_thread_shell_server_process.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+contiki_shell_shell_register_command.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_tcpip_eventhandler.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_uip-neighbor_uip_neighbor_add.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.15 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_uip-neighbor_uip_neighbor_periodic.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_uip-over-mesh_recv_data.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+contiki_uip_uip_connect.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.19 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+contiki_uip_uip_init.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+contiki_uip_uip_unlisten.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+contiki_webclient_senddata.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.15 3-BZTreewidth-DP.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 3-BZTreewidth-DFS.exe
+time_user=0.17 3-BZTreewidth-DP-LS.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.19 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.19 6-tw-exact
+time_user=0.20 3-BZTreewidth-DFS-LS.exe
+time_user=0.23 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+contiki_webclient_webclient_appcall.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.01 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.19 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+dimacs_anna.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.18 7-tw-exact
+time_user=0.49 3-BZTreewidth-DP.exe
+time_user=0.51 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.52 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.52 3-BZTreewidth-DP-LS.exe
+time_user=0.53 3-BZTreewidth-DFS-LS.exe
+time_user=0.53 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.53 6-tw-exact
+time_user=0.54 3-BZTreewidth-DFS.exe
+time_user=0.55 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.56 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.57 3-BZTreewidth-DFS-SV.exe
+{'6-tw-exact': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 9, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 10, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 8}
+
+dimacs_jean.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.15 7-tw-exact
+time_user=0.28 3-BZTreewidth-DP.exe
+time_user=0.30 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.31 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.31 3-BZTreewidth-DFS-SV.exe
+time_user=0.32 3-BZTreewidth-DP-LS.exe
+time_user=0.33 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.34 3-BZTreewidth-DFS-LS.exe
+time_user=0.34 3-BZTreewidth-DFS.exe
+time_user=0.35 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.36 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.49 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 8, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 10, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 8, '0-tw-exact': 1, '6-tw-exact': 11, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 9}
+
+dimacs_miles1000.gr was solved by 1 solvers
+time_user=10.18 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+dimacs_miles250.gr was solved by 12 solvers
+time_user=0.00 0-tw-exact
+time_user=0.23 3-BZTreewidth-DP.exe
+time_user=0.24 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.24 3-BZTreewidth-DFS-SV.exe
+time_user=0.24 3-BZTreewidth-DFS.exe
+time_user=0.25 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.25 3-BZTreewidth-DP-LS.exe
+time_user=0.26 3-BZTreewidth-DFS-LS.exe
+time_user=0.26 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.26 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.27 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.32 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+dimacs_miles750.gr was solved by 1 solvers
+time_user=29.35 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+dimacs_mulsol.i.1.gr was solved by 1 solvers
+time_user=7.00 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+dimacs_mulsol.i.2.gr was solved by 2 solvers
+time_user=2.11 6-tw-exact
+time_user=4.19 7-tw-exact
+{'6-tw-exact': 1, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+dimacs_mulsol.i.3.gr was solved by 2 solvers
+time_user=1.84 6-tw-exact
+time_user=1.93 7-tw-exact
+{'6-tw-exact': 1, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+dimacs_mulsol.i.4-pp.gr was solved by 2 solvers
+time_user=0.80 7-tw-exact
+time_user=1.62 6-tw-exact
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+dimacs_mulsol.i.5-pp.gr was solved by 3 solvers
+time_user=0.38 7-tw-exact
+time_user=1.23 6-tw-exact
+time_user=2.70 0-tw-exact
+{'6-tw-exact': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 4, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+dimacs_mulsol.i.5.gr was solved by 2 solvers
+time_user=2.51 6-tw-exact
+time_user=3.85 7-tw-exact
+{'6-tw-exact': 1, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+dimacs_myciel5.gr was solved by 2 solvers
+time_user=0.86 7-tw-exact
+time_user=93.35 0-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 2, '6-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+dimacs_queen5_5.gr was solved by 12 solvers
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.12 7-tw-exact
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=1.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 8, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+dimacs_queen6_6.gr was solved by 11 solvers
+time_user=0.22 7-tw-exact
+time_user=0.40 3-BZTreewidth-DP-LS.exe
+time_user=0.41 3-BZTreewidth-DP.exe
+time_user=0.62 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.66 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.66 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.67 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.68 3-BZTreewidth-DFS-SV.exe
+time_user=0.69 3-BZTreewidth-DFS-LS.exe
+time_user=0.69 3-BZTreewidth-DFS.exe
+time_user=0.98 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'3-BZTreewidth-DFS.exe': 8, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '0-tw-exact': 10, '3-BZTreewidth-DFS-LS.exe': 8, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 10, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 9, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 7, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+dimacs_queen7_7.gr was solved by 11 solvers
+time_user=1.33 7-tw-exact
+time_user=10.01 3-BZTreewidth-DP-LS.exe
+time_user=10.10 3-BZTreewidth-DP.exe
+time_user=35.06 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=35.24 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=46.73 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=47.11 3-BZTreewidth-DFS.exe
+time_user=47.27 3-BZTreewidth-DFS-LS.exe
+time_user=47.99 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=58.61 3-BZTreewidth-DFS-SV.exe
+time_user=94.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+{'3-BZTreewidth-DFS.exe': 7, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 9, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '0-tw-exact': 12, '3-BZTreewidth-DFS-LS.exe': 8, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 12, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 11, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 10, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 6}
+
+dimacs_zeroin.i.2.gr was solved by 2 solvers
+time_user=1.68 6-tw-exact
+time_user=2.96 7-tw-exact
+{'6-tw-exact': 1, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 3, '3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+dimacs_zeroin.i.3-pp.gr was solved by 7 solvers
+time_user=0.34 7-tw-exact
+time_user=88.49 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=92.30 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=92.34 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=92.68 3-BZTreewidth-DFS-SV.exe
+time_user=92.82 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=93.61 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+{'3-BZTreewidth-DFS.exe': 8, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DP-LS.exe': 8, '3-BZTreewidth-DP.exe': 8, '3-BZTreewidth-DFS-LS.exe': 8, '0-tw-exact': 8, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 7, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+dimacs_zeroin.i.3.gr was solved by 1 solvers
+time_user=1.18 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_abort_abort.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_bankfixe_pagemap_alloc.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_clock_gettime_clock_gettime.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_clock_gettime_div10quickm.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_clock_settime_clock_settime.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 1, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_devf_fd_transfer.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.14 3-BZTreewidth-DP.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS.exe
+time_user=0.17 3-BZTreewidth-DP-LS.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.19 3-BZTreewidth-DFS-LS.exe
+time_user=0.21 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 7, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_devio_bfind.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.01 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_devio_kprintf.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_difftime_difftime.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_fgets_fgets.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_filesys_filename.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_filesys_getinode.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 5, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_filesys_i_open.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.07 7-tw-exact
+time_user=0.13 3-BZTreewidth-DP.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.17 3-BZTreewidth-DFS-LS.exe
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 3-BZTreewidth-DFS.exe
+time_user=0.17 3-BZTreewidth-DP-LS.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.20 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '6-tw-exact': 8, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 7, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_filesys_newfstab.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_filesys_srch_mt.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_gethostname_gethostname.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-SV.exe
+time_user=0.06 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_getpass__gets.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.09 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_inode_rwsetup.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_malloc___insert_chunk.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DP.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.15 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_nanosleep_clock_nanosleep.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.08 7-tw-exact
+time_user=0.11 3-BZTreewidth-DP.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DFS.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_process_getproc.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_qsort__lqsort.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.03 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.11 3-BZTreewidth-DFS-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 6, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_ran_rand.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_readdir_readdir.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV.exe
+time_user=0.09 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 7, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 6, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_regexp_regcomp.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 5, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_se_ycomp.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.04 7-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_setbuffer_setbuffer.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.06 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 5, '3-BZTreewidth-DP.exe': 4, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_setenv_setenv.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.05 7-tw-exact
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.12 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DP.exe
+time_user=0.13 3-BZTreewidth-DFS-LS.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 3-BZTreewidth-DFS.exe
+time_user=0.18 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_stat_statfix.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DP.exe
+time_user=0.09 3-BZTreewidth-DFS-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DP-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_syscall_fs2__fchdir.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 6-tw-exact
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '6-tw-exact': 3, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+fuzix_syscall_fs2_chown_op.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DP-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DFS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_syscall_proc__time.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.07 3-BZTreewidth-DP.exe
+time_user=0.08 3-BZTreewidth-DFS-LS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.09 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.11 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 5, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+fuzix_sysconf_sysconf.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-SV.exe
+time_user=0.14 3-BZTreewidth-DP.exe
+time_user=0.15 3-BZTreewidth-DFS-LS.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.15 3-BZTreewidth-DP-LS.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.16 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 6, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 5, '3-BZTreewidth-DP.exe': 4, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DP-LS.exe': 5, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_tty_tty_read.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.03 7-tw-exact
+time_user=0.16 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.16 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.16 3-BZTreewidth-DP.exe
+time_user=0.16 6-tw-exact
+time_user=0.17 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.17 3-BZTreewidth-DFS-SV.exe
+time_user=0.17 3-BZTreewidth-DP-LS.exe
+time_user=0.18 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.18 3-BZTreewidth-DFS.exe
+time_user=0.19 3-BZTreewidth-DFS-LS.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '0-tw-exact': 1, '3-BZTreewidth-DFS-LS.exe': 6, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS.exe': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+fuzix_usermem_ugets.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.06 3-BZTreewidth-DP.exe
+time_user=0.07 3-BZTreewidth-DFS-LS.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.07 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.07 3-BZTreewidth-DFS.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.08 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.08 3-BZTreewidth-DFS-SV.exe
+time_user=0.08 3-BZTreewidth-DP-LS.exe
+time_user=0.08 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 4, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 3, '0-tw-exact': 1, '6-tw-exact': 4, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 3, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+fuzix_vfscanf_vfscanf.gr was solved by 13 solvers
+time_user=1.23 7-tw-exact
+time_user=1.62 0-tw-exact
+time_user=2.42 6-tw-exact
+time_user=37.25 3-BZTreewidth-DP-LS.exe
+time_user=37.72 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=38.58 3-BZTreewidth-DFS-SV.exe
+time_user=38.65 3-BZTreewidth-DP.exe
+time_user=39.24 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=39.42 3-BZTreewidth-DFS.exe
+time_user=39.48 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=39.78 3-BZTreewidth-DFS-LS.exe
+time_user=40.23 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=43.39 3-BZTreewidth-DFS-SV-MMW.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 12, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 10, '0-tw-exact': 2, '3-BZTreewidth-DFS-LS.exe': 11, '3-BZTreewidth-DP.exe': 7, '3-BZTreewidth-DFS.exe': 9, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 8, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 13, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+random4reg.gr was solved by 1 solvers
+time_user=65.95 7-tw-exact
+{'3-BZTreewidth-DFS.exe': 2, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 2, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 2, '0-tw-exact': 2, '6-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 2, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 2, '3-BZTreewidth-DFS-SV.exe': 2, '3-BZTreewidth-DFS-SV-MMW.exe': 2, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 2}
+
+stdlib_gmtime.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.12 3-BZTreewidth-DP-LS.exe
+time_user=0.12 3-BZTreewidth-DP.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS-LS.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.14 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.14 3-BZTreewidth-DFS.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.15 3-BZTreewidth-DFS-SV.exe
+time_user=0.18 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DP-LS.exe': 2, '3-BZTreewidth-DFS-SV.exe': 5, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 4}
+
+stdlib_mktime.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.02 7-tw-exact
+time_user=0.09 3-BZTreewidth-DP.exe
+time_user=0.10 3-BZTreewidth-DFS-LS.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.10 3-BZTreewidth-DFS-SV.exe
+time_user=0.10 3-BZTreewidth-DFS.exe
+time_user=0.10 3-BZTreewidth-DP-LS.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.11 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.15 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 4, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 5, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 3, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 5, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 4, '3-BZTreewidth-DFS-SV.exe': 4, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 5}
+
+stdlib_print_format.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.11 7-tw-exact
+time_user=0.43 6-tw-exact
+time_user=1.58 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=1.64 3-BZTreewidth-DP.exe
+time_user=1.72 3-BZTreewidth-DFS-LS.exe
+time_user=1.72 3-BZTreewidth-DFS-SV.exe
+time_user=1.72 3-BZTreewidth-DFS.exe
+time_user=1.77 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=1.81 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=1.81 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=1.84 3-BZTreewidth-DP-LS.exe
+time_user=1.87 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+{'6-tw-exact': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 10, '3-BZTreewidth-DP-LS.exe': 9, '3-BZTreewidth-DP.exe': 5, '3-BZTreewidth-DFS-LS.exe': 6, '0-tw-exact': 1, '3-BZTreewidth-DFS.exe': 6, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 4, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 8, '3-BZTreewidth-DFS-SV.exe': 6, '3-BZTreewidth-DFS-SV-MMW.exe': 8, '7-tw-exact': 2, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 7}
+
+stdlib_sincoshf.gr was solved by 13 solvers
+time_user=0.00 0-tw-exact
+time_user=0.00 7-tw-exact
+time_user=0.12 3-BZTreewidth-DP.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+time_user=0.13 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+time_user=0.13 3-BZTreewidth-DFS-SV.exe
+time_user=0.13 3-BZTreewidth-DFS.exe
+time_user=0.15 3-BZTreewidth-DFS-LS.exe
+time_user=0.15 3-BZTreewidth-DFS-SV-MMW.exe
+time_user=0.15 3-BZTreewidth-DP-LS.exe
+time_user=0.17 6-tw-exact
+{'3-BZTreewidth-DFS.exe': 3, '3-BZTreewidth-DFS-SV-MMWLIMIT.exe': 3, '3-BZTreewidth-DP-LS.exe': 4, '3-BZTreewidth-DP.exe': 2, '3-BZTreewidth-DFS-LS.exe': 4, '0-tw-exact': 1, '6-tw-exact': 5, '3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe': 3, '3-BZTreewidth-DFS-SV-ASV-MMW.exe': 3, '3-BZTreewidth-DFS-SV.exe': 3, '3-BZTreewidth-DFS-SV-MMW.exe': 4, '7-tw-exact': 1, '3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe': 3}
+
+== Statistics per solver ==
+Total number of solved instances: 200
+199 solved by 7-tw-exact
+174 solved by 3-BZTreewidth-DFS-SV-ASV-MMW.exe
+174 solved by 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+174 solved by 3-BZTreewidth-DFS-SV-MMW.exe
+174 solved by 3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+173 solved by 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+173 solved by 3-BZTreewidth-DFS-SV.exe
+173 solved by 3-BZTreewidth-DP.exe
+172 solved by 3-BZTreewidth-DFS-LS.exe
+172 solved by 3-BZTreewidth-DFS.exe
+172 solved by 3-BZTreewidth-DP-LS.exe
+171 solved by 0-tw-exact
+166 solved by 6-tw-exact
+
+== Pairwise comparisons ==
+(Only count an instance if solver1 and solver2 have a distinct rank)
+
+0-tw-exact
+better than 3-BZTreewidth-DFS-LS.exe on 91.573034% of instances (path=163)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 91.011236% of instances (path=162)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 90.555556% of instances (path=163)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 90.555556% of instances (path=163)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 90.555556% of instances (path=163)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 90.555556% of instances (path=163)
+better than 3-BZTreewidth-DFS-SV.exe on 91.011236% of instances (path=162)
+better than 3-BZTreewidth-DFS.exe on 91.573034% of instances (path=163)
+better than 3-BZTreewidth-DP-LS.exe on 90.449438% of instances (path=161)
+better than 3-BZTreewidth-DP.exe on 89.944134% of instances (path=161)
+better than 6-tw-exact on 93.854749% of instances (path=168)
+better than 7-tw-exact on 59.259259% of instances (path=80)
+
+3-BZTreewidth-DFS-LS.exe
+better than 0-tw-exact on 8.426966% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 48.780488% of instances (path=67)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 43.965517% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 53.076923% of instances (path=69)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 55.813953% of instances (path=72)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 47.540984% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV.exe on 42.400000% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 31.775701% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 17.213115% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 4.268293% of instances (path=0)
+better than 6-tw-exact on 85.875706% of instances (path=152)
+better than 7-tw-exact on 3.553299% of instances (path=0)
+
+3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+better than 0-tw-exact on 8.988764% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 51.219512% of instances (path=63)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 38.053097% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 44.628099% of instances (path=63)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 51.587302% of instances (path=65)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 44.144144% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV.exe on 38.016529% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 37.600000% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 27.819549% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 5.625000% of instances (path=0)
+better than 6-tw-exact on 86.440678% of instances (path=153)
+better than 7-tw-exact on 2.564103% of instances (path=0)
+
+3-BZTreewidth-DFS-SV-ASV-MMW.exe
+better than 0-tw-exact on 9.444444% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 56.034483% of instances (path=65)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 61.946903% of instances (path=70)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 54.918033% of instances (path=67)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 65.000000% of instances (path=78)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 54.621849% of instances (path=65)
+better than 3-BZTreewidth-DFS-SV.exe on 43.200000% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 40.350877% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 25.600000% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 6.875000% of instances (path=0)
+better than 6-tw-exact on 87.005650% of instances (path=154)
+better than 7-tw-exact on 3.571429% of instances (path=0)
+
+3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+better than 0-tw-exact on 9.444444% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 46.923077% of instances (path=63)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 55.371901% of instances (path=67)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 45.081967% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 55.371901% of instances (path=67)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 49.180328% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV.exe on 44.604317% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 40.983607% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 22.900763% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 9.876543% of instances (path=0)
+better than 6-tw-exact on 85.635359% of instances (path=155)
+better than 7-tw-exact on 3.571429% of instances (path=0)
+
+3-BZTreewidth-DFS-SV-MMW.exe
+better than 0-tw-exact on 9.444444% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 44.186047% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 48.412698% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 35.000000% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 44.628099% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 42.635659% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV.exe on 38.931298% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 35.251799% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 20.138889% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 8.433735% of instances (path=0)
+better than 6-tw-exact on 87.078652% of instances (path=155)
+better than 7-tw-exact on 3.076923% of instances (path=0)
+
+3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+better than 0-tw-exact on 9.444444% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 52.459016% of instances (path=64)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 55.855856% of instances (path=64)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 45.378151% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 50.819672% of instances (path=64)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 57.364341% of instances (path=74)
+better than 3-BZTreewidth-DFS-SV.exe on 42.635659% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 37.190083% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 25.190840% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 6.060606% of instances (path=0)
+better than 6-tw-exact on 87.005650% of instances (path=154)
+better than 7-tw-exact on 3.553299% of instances (path=0)
+
+3-BZTreewidth-DFS-SV.exe
+better than 0-tw-exact on 8.988764% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 57.600000% of instances (path=72)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 61.983471% of instances (path=75)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 56.800000% of instances (path=71)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 55.395683% of instances (path=77)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 61.068702% of instances (path=80)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 57.364341% of instances (path=74)
+better than 3-BZTreewidth-DFS.exe on 42.016807% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 29.914530% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 7.843137% of instances (path=0)
+better than 6-tw-exact on 85.955056% of instances (path=153)
+better than 7-tw-exact on 3.030303% of instances (path=0)
+
+3-BZTreewidth-DFS.exe
+better than 0-tw-exact on 8.426966% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 68.224299% of instances (path=73)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 62.400000% of instances (path=78)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 59.649123% of instances (path=69)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 59.016393% of instances (path=72)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 64.748201% of instances (path=90)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 62.809917% of instances (path=76)
+better than 3-BZTreewidth-DFS-SV.exe on 57.983193% of instances (path=69)
+better than 3-BZTreewidth-DP-LS.exe on 32.142857% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 5.194805% of instances (path=0)
+better than 6-tw-exact on 86.033520% of instances (path=154)
+better than 7-tw-exact on 3.045685% of instances (path=0)
+
+3-BZTreewidth-DP-LS.exe
+better than 0-tw-exact on 9.550562% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 82.786885% of instances (path=101)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 72.180451% of instances (path=96)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 74.400000% of instances (path=93)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 77.099237% of instances (path=101)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 79.861111% of instances (path=115)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 74.809160% of instances (path=98)
+better than 3-BZTreewidth-DFS-SV.exe on 70.085470% of instances (path=82)
+better than 3-BZTreewidth-DFS.exe on 67.857143% of instances (path=76)
+better than 3-BZTreewidth-DP.exe on 6.711409% of instances (path=0)
+better than 6-tw-exact on 88.826816% of instances (path=159)
+better than 7-tw-exact on 3.061224% of instances (path=0)
+
+3-BZTreewidth-DP.exe
+better than 0-tw-exact on 10.055866% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 95.731707% of instances (path=157)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 94.375000% of instances (path=151)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 93.125000% of instances (path=149)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 90.123457% of instances (path=146)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 91.566265% of instances (path=152)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 93.939394% of instances (path=155)
+better than 3-BZTreewidth-DFS-SV.exe on 92.156863% of instances (path=141)
+better than 3-BZTreewidth-DFS.exe on 94.805195% of instances (path=146)
+better than 3-BZTreewidth-DP-LS.exe on 93.288591% of instances (path=139)
+better than 6-tw-exact on 89.944134% of instances (path=161)
+better than 7-tw-exact on 6.666667% of instances (path=0)
+
+6-tw-exact
+better than 0-tw-exact on 6.145251% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 14.124294% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 13.559322% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 12.994350% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 14.364641% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 12.921348% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 12.994350% of instances (path=0)
+better than 3-BZTreewidth-DFS-SV.exe on 14.044944% of instances (path=0)
+better than 3-BZTreewidth-DFS.exe on 13.966480% of instances (path=0)
+better than 3-BZTreewidth-DP-LS.exe on 11.173184% of instances (path=0)
+better than 3-BZTreewidth-DP.exe on 10.055866% of instances (path=0)
+better than 7-tw-exact on 2.512563% of instances (path=0)
+
+7-tw-exact
+better than 0-tw-exact on 40.740741% of instances (path=0)
+better than 3-BZTreewidth-DFS-LS.exe on 96.446701% of instances (path=190)
+better than 3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe on 97.435897% of instances (path=190)
+better than 3-BZTreewidth-DFS-SV-ASV-MMW.exe on 96.428571% of instances (path=189)
+better than 3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe on 96.428571% of instances (path=189)
+better than 3-BZTreewidth-DFS-SV-MMW.exe on 96.923077% of instances (path=189)
+better than 3-BZTreewidth-DFS-SV-MMWLIMIT.exe on 96.446701% of instances (path=190)
+better than 3-BZTreewidth-DFS-SV.exe on 96.969697% of instances (path=192)
+better than 3-BZTreewidth-DFS.exe on 96.954315% of instances (path=191)
+better than 3-BZTreewidth-DP-LS.exe on 96.938776% of instances (path=190)
+better than 3-BZTreewidth-DP.exe on 93.333333% of instances (path=182)
+better than 6-tw-exact on 97.487437% of instances (path=194)
+
+== Final ranking (using Schulze method) ==
+0-tw-exact
+7-tw-exact
+3-BZTreewidth-DP.exe
+3-BZTreewidth-DP-LS.exe
+3-BZTreewidth-DFS.exe
+3-BZTreewidth-DFS-SV.exe
+3-BZTreewidth-DFS-SV-ASV-MMW.exe
+3-BZTreewidth-DFS-SV-MMWLIMIT.exe
+3-BZTreewidth-DFS-LS.exe
+3-BZTreewidth-DFS-SV-ASV-MMWLIMIT.exe
+3-BZTreewidth-DFS-SV-ASV-EADD-MMW.exe
+3-BZTreewidth-DFS-SV-MMW.exe
+6-tw-exact
