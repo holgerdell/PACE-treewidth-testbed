@@ -35,10 +35,10 @@ ex.ps: ex.out
 	set ylabel "Running time (seconds)";
 	set key on Left inside top right reverse box spacing 4 width -2;
 	plot
-	"< awk -v FS=' *; *' '{if($$3 == \"0\") print}' $<" u 8:11 t "0: Frankfurt University" w p ls 1,
-	"< awk -v FS=' *; *' '{if($$3 == \"3\") print}' $<" u 8:11 t "3: Utrecht University" w p ls 2,
-	"< awk -v FS=' *; *' '{if($$3 == \"6\") print}' $<" u 8:11 t "6: Luebeck University" w p ls 3,
-	"< awk -v FS=' *; *' '{if($$3 == \"7\") print}' $<" u 8:11 t "7: Meiji University" w p ls 4
+	"< awk -v FS=' *; *' '{if($$3 == \"0\") print}' $<" u 8:11 t "Frankfurt University" w p ls 1,
+	"< awk -v FS=' *; *' '{if($$3 == \"3\") print}' $<" u 8:11 t "Utrecht University" w p ls 2,
+	"< awk -v FS=' *; *' '{if($$3 == \"6\") print}' $<" u 8:11 t "Luebeck University" w p ls 3,
+	"< awk -v FS=' *; *' '{if($$3 == \"7\") print}' $<" u 8:11 t "Meiji University" w p ls 4
 
 ex-dimacs.ps: ex.out
 	reset;
@@ -64,10 +64,10 @@ ex-dimacs.ps: ex.out
 	set ylabel "Running time (seconds)";
 	set key on Left inside top right reverse box spacing 4;
 	plot
-	"< awk -v FS=' *; *' '{if($$3 == \"0\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "0: Frankfurt University" w p ls 1,
-	"< awk -v FS=' *; *' '{if($$3 == \"3\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "3: Utrecht University" w p ls 2,
-	"< awk -v FS=' *; *' '{if($$3 == \"6\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "6: Luebeck University" w p ls 3,
-	"< awk -v FS=' *; *' '{if($$3 == \"7\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "7: Meiji University" w p ls 4
+	"< awk -v FS=' *; *' '{if($$3 == \"0\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Frankfurt University" w p ls 1,
+	"< awk -v FS=' *; *' '{if($$3 == \"3\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Utrecht University" w p ls 2,
+	"< awk -v FS=' *; *' '{if($$3 == \"6\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Luebeck University" w p ls 3,
+	"< awk -v FS=' *; *' '{if($$3 == \"7\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Meiji University" w p ls 4
 
 exhe-dimacs.ps: ex.out he.out
 	reset;
@@ -93,8 +93,8 @@ exhe-dimacs.ps: ex.out he.out
 	set ylabel "Running time (seconds)";
 	set key on Left inside top right reverse box spacing 4;
 	plot
-	"< awk -v FS=' *; *' '{if($$2 == \"se\" && $$3 == \"12\" && index($$6, \"dimacs\")) print}' he.out" u 8:11 t "12: best heuristic" w p ls 3,
-	"< awk -v FS=' *; *' '{if($$3 == \"7\" && index($$6, \"dimacs\")) print}' ex.out" u 8:11 t "7: best exact" w p ls 4
+	"< awk -v FS=' *; *' '{if($$2 == \"se\" && $$3 == \"12\" && index($$6, \"dimacs\")) print}' he.out" u 8:11 t "best heuristic" w p ls 3,
+	"< awk -v FS=' *; *' '{if($$3 == \"7\" && index($$6, \"dimacs\")) print}' ex.out" u 8:11 t "best exact" w p ls 4
 
 ex-contiki.ps: ex.out
 	reset;
@@ -120,10 +120,10 @@ ex-contiki.ps: ex.out
 	set ylabel "Running time (seconds)";
 	set key on Left inside top right reverse box spacing 4 width -2;
 	plot
-	"< awk -v FS=' *; *' '{if($$3 == \"0\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "0: Frankfurt University" w p ls 1,
-	"< awk -v FS=' *; *' '{if($$3 == \"3\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "3: Utrecht University" w p ls 2,
-	"< awk -v FS=' *; *' '{if($$3 == \"6\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "6: Luebeck University" w p ls 3,
-	"< awk -v FS=' *; *' '{if($$3 == \"7\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "7: Meiji University" w p ls 4
+	"< awk -v FS=' *; *' '{if($$3 == \"0\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Frankfurt University" w p ls 1,
+	"< awk -v FS=' *; *' '{if($$3 == \"3\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Utrecht University" w p ls 2,
+	"< awk -v FS=' *; *' '{if($$3 == \"6\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Luebeck University" w p ls 3,
+	"< awk -v FS=' *; *' '{if($$3 == \"7\" && index($$6, \"dimacs\")) print}' $<" u 8:11 t "Meiji University" w p ls 4
 
 he.ps: he.out
 	reset;
@@ -149,10 +149,10 @@ he.ps: he.out
 	set ylabel "Running time (seconds)";
 	set key on Left inside top right reverse box spacing 4 width -2;
 	plot
-	"< awk -v FS=' *; *' '{if($$3 == \"0\") print}' $<" u 8:11 t "0: freetdi/grtd"    w p ls 1,
-	"< awk -v FS=' *; *' '{if($$3 ==\"12\") print}' $<" u 8:11 t "12: FlowCutter" w p ls 2,
-	"< awk -v FS=' *; *' '{if($$3 == \"9\") print}' $<" u 8:11 t "9: Eli Fox"         w p ls 3,
-	"< awk -v FS=' *; *' '{if($$3 == \"5\") print}' $<" u 8:11 t "5: htd/\n  treewidth-exact" w p ls 4
+	"< awk -v FS=' *; *' '{if($$3 == \"0\") print}' $<" u 8:11 t "freetdi/grtd"    w p ls 1,
+	"< awk -v FS=' *; *' '{if($$3 ==\"12\") print}' $<" u 8:11 t "FlowCutter" w p ls 2,
+	"< awk -v FS=' *; *' '{if($$3 == \"9\") print}' $<" u 8:11 t "Eli Fox"         w p ls 3,
+	"< awk -v FS=' *; *' '{if($$3 == \"5\") print}' $<" u 8:11 t "htd/\n  treewidth-exact" w p ls 4
 
 hehist.ps: he.out
 	reset;
@@ -239,14 +239,14 @@ hesestat.ps: 0_hesestat.out 5_hesestat.out 12_hesestat.out 9_hesestat.out 1_hese
 	set style data lines;
 	plot
 #	'0_hesestat.out' using 1:2 t "0",
-	'12_hesestat.out' using 1:2 t "12: ben-strasser/flow-cutter-pace16",
-	'9_hesestat.out' using 1:2 t "9: elitheeli/2016-pace-challenge",
-	'5_hesestat.out' using 1:2 t "5: mabseher/htd",
-	'10_hesestat.out' using 1:2 t "10: mfjones/pace2016",
-	'6_hesestat.out' using 1:2 lc rgb"red" t "6: maxbannach/Jdrasil",
-	'1_hesestat.out' using 1:2 lc rgb"blue" t "1: mrprajesh/pacechallenge"
+	'12_hesestat.out' using 1:2 t "ben-strasser/flow-cutter-pace16",
+	'9_hesestat.out' using 1:2 t "elitheeli/2016-pace-challenge",
+	'5_hesestat.out' using 1:2 t "mabseher/htd",
+	'10_hesestat.out' using 1:2 t "mfjones/pace2016",
+	'6_hesestat.out' using 1:2 lc rgb"red" t "maxbannach/Jdrasil",
+	'1_hesestat.out' using 1:2 lc rgb"blue" t "mrprajesh/pacechallenge"
 
-hepastat.ps: 6_hepastat.out 0_hepastat.out 12_hepastat.out
+hepastat.ps: 2_hepastat.out 6_hepastat.out 0_hepastat.out 12_hepastat.out
 	reset;
 	set title "histogram integral (Treewidth counts)";
 	set terminal postscript color enhanced font 'Helvetica,14' eps;
@@ -266,9 +266,9 @@ hepastat.ps: 6_hepastat.out 0_hepastat.out 12_hepastat.out
 	set style data lines;
 	plot
 #	'0_hepastat.out' using 1:2 t "0",
-	'2_hepastat.out' using 1:2 t "2: willmlam/CVO2",
-	'12_hepastat.out' using 1:2 t "12: ben-strasser/flow-cutter-pace16",
-	'6_hepastat.out' using 1:2 lc rgb"red" t "6: maxbannach/Jdrasil";
+	'2_hepastat.out' using 1:2 t "willmlam/CVO2",
+	'12_hepastat.out' using 1:2 t "ben-strasser/flow-cutter-pace16",
+	'6_hepastat.out' using 1:2 lc rgb"red" t "maxbannach/Jdrasil";
 
 hepa.out he.out ex.out: SHELL=/bin/sh
 data.out: SHELL=/bin/sh
